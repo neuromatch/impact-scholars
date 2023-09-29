@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: info/intro
+parts:
+- caption: Program Overview
+  chapters:
+  - file: info/structure
+  - file: info/application
+    title: Application
+  - file: info/scholars2023
+    title: Scholars 2023
+  - file: info/mentors
+    title: Mentors
+- caption: Workshops
+  chapters:
+  - file: workshops/science_writing
+    title: Science writing
+  - file: workshops/oral_presentations
+    title: Oral presentations
