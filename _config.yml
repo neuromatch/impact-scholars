@@ -11,6 +11,7 @@ sphinx:
     language: en
     myst_heading_anchors: 2
     html_theme_options:
+      announcement: "🌍🌎🌏 We are looking for mentors with experience in climate research! <a href='https://airtable.com/appLHqbcnAQ1EUO47/shrDDmUFZ594k6KQ0' style='color:#f0ba7d;'><b>APPLY HERE!</b></a> " 
       logo:
         text: Climatematch Impact Scholars Program 
     html_sidebars:
@@ -35,7 +36,6 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  announcement              : "Mentor applications are open! Apply here: "
   favicon                   : info/images/cma_logo.png  # A path to a favicon image
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : true  # Whether to add a link to your repository button
