@@ -4,11 +4,14 @@ We are thrilled to introduce 15 teams of 74 Impact Scholars as part of our 2023 
 
 Their ambitious projects focus on pressing climate issues on local and global scales, as well as their societal impact.
 
-<figure>
-    <img src="images/cisp_map.png"
-         alt="Map of scholar projects">
-    <figcaption><i>A representation of the scholar projects' geographical regions of focus. The two projects marked by an asterisk (*) investigate phenomena on a global scale.</i></figcaption>
-</figure>
+```{figure} images/cisp_map.png
+---
+width: 100%
+---
+A representation of the scholar projects' geographical regions of focus. The two projects marked by an asterisk (*) investigate phenomena on a global scale
+```
+
+---
 
 <div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #a2bbd4; margin: 10px 0px;">1.</div></div>
 
