@@ -1,0 +1,4 @@
+body table :is(td, th) {
+  border: 1px solid var(--fbc-secondary-text);
+  padding: 15px;
+}
