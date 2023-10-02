@@ -6,6 +6,6 @@ In line with the [mission of Climatematch](https://academy.climatematch.io/about
 - advance the scholars' **computational research skills and knowledge** in a specific sub-domain of climate science,
 - help the scholars chart their path **from data to action**.
 
-Learn more about the program:
+To learn more about the program, please see the content under Program Overview.
 ```{tableofcontents}
 ```
