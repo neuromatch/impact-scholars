@@ -19,7 +19,11 @@ We are actively working to provide participants with further professional and ac
 ## **Program tentative timeline**
 <table style="width:90%">
 <tr>
-    <td><b>October 2023</b></td>
+    <td><b>9 October 2023</b></td>
+    <td>Impact Scholars survey deadline</td>
+</tr>
+<tr>
+    <td><b>16-17 October 2023</b></td>
     <td>Welcome Event for scholars and mentors</td>
 </tr>
 <tr>
@@ -30,11 +34,15 @@ We are actively working to provide participants with further professional and ac
     <td>Research output submission deadline</td>
 </tr>
 <tr>
+    <td><b>January 2024</b></td>
+    <td>End-of-program Celebration Event</td>
+</tr>
+<tr>
     <td><b>February 2024</b></td>
     <td>Feedback on research outputs</td>
 </tr>
 <tr>
-    <td><b>March 2024</b></td>
+    <td><b>March-April 2024</b></td>
     <td>Micropublication release and seminar presentations</td>
 </tr>
 </table>
