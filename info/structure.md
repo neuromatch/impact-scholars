@@ -17,7 +17,7 @@ We are actively working to provide participants with further professional and ac
 
 ---
 ## **Program tentative timeline**
-<table style="width:60%">
+<table style="width:90%">
 <tr>
     <td><b>October 2023</b></td>
     <td>Welcome Event for scholars and mentors</td>
