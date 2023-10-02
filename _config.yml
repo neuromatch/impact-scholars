@@ -3,13 +3,15 @@
 
 title: Climatematch Impact Scholars Program
 author: Climatematch
-logo: cma_logo.png
+logo: info/images/cma_logo.png
 only_build_toc_files: true
 
 sphinx:
   config:
     language: en
+    myst_heading_anchors: 2
     html_theme_options:
+      announcement: "<font size = '6'>🌍🌎🌏 We are looking for mentors with experience in climate research! <br> <a href='https://airtable.com/appLHqbcnAQ1EUO47/shrDDmUFZ594k6KQ0' style='color:#f0ba7d;'><b>APPLY HERE!</b></a></font>"  
       logo:
         text: Climatematch Impact Scholars Program 
     html_sidebars:
@@ -34,11 +36,10 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  announcement              : "Mentor applications are open! Apply here: "
-  favicon                   : cma_logo.png  # A path to a favicon image
+  favicon                   : info/images/cma_logo.png  # A path to a favicon image
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : true  # Whether to add a link to your repository button
-  use_issues_button         : true  # Whether to add an "open an issue" button
+  use_issues_button         : false # Whether to add an "open an issue" button
   extra_navbar              : Powered by <a href="https://jupyterbook.org">Jupyter Book</a>  # Will be displayed underneath the left navbar.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : true
