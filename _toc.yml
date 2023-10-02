@@ -13,9 +13,3 @@ parts:
     title: Scholars 2023
   - file: info/mentors
     title: Mentors
-- caption: Workshops
-  chapters:
-  - file: workshops/science_writing
-    title: Science writing
-  - file: workshops/oral_presentations
-    title: Oral presentations
