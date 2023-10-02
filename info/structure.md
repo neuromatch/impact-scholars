@@ -11,7 +11,7 @@ The Climatematch Impact Scholars program runs between **October 2023** and **Jan
 
 - **Mentorship**. We endeavour to match every team to a suitable mentor who connects with the scholars synchronously or asynchronously at least once a month and provides feedback on their research outputs. 
 
-- **Skill development workshops**. To assist with preparation of the micropublication and the seminar, we will be running workshops on [science writing](../workshops/science_writing.md) and [oral presentation](../workshops/oral_presentation.md).
+- **Skill development workshops**. To assist with preparation of the micropublication and the seminar, we will be running workshops on [science writing](../workshops/science_writing.md) and [oral presentation](../workshops/oral_presentations.md).
 
 - **Community support**. There will be regular check-ins from the program organisers on the #cisp-community forum channel on Discord for participants to share both successes and struggles.
 
