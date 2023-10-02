@@ -29,6 +29,7 @@ We are actively working to provide participants with further professional and ac
 <tr>
     <td><b>October - December 2023</b></td>
     <td>Regular check-ins on Discord and mentor meetings</td>
+</tr>
 <tr>
     <td><b>12th January 2024</b></td>
     <td>Research output submission deadline</td>
