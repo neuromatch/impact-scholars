@@ -1,4 +1,4 @@
-body table :is(td, th) {
-  border: 1px solid var(--fbc-secondary-text);
+table td {
+  border: 2px solid var(--bs-border-color);
   padding: 15px;
 }
