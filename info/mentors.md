@@ -16,7 +16,7 @@ Mentors will also become official collaborators on the project which will conclu
 Mentors support scholars to continue a research project they have started during the Climatematch Academy. In particular, mentors will:
 - Connect with their group at least once per month for 1-2 hours either synchronously (zoom meeting) or asynchronously (email or Discord). We estimate the total minimum time commitment to be 6-8 hours.
 - Provide constructive feedback on outputs (project proposal, presentation slides, micropublication drafts) 
-- Attend a welcome meeting (early October 2023) and an end of program celebration meeting (January 2024) with all scholars and mentors. Both via Zoom. 
+- Attend a welcome meeting (mid-October 2023) and an end of program celebration meeting (January 2024) with all scholars and mentors. Both via Zoom. 
 
 We encourage mentors to interact with their group beyond the minimum of 6-8 hours required by the program if this aligns with the goals of the mentor and group. Besides more in-depth project discussions, additional mentor-scholar interactions could surround topics including the mentor’s work or general career advice.  
 
