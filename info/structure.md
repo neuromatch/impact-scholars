@@ -11,37 +11,39 @@ The Climatematch Impact Scholars program runs between **October 2023** and **Jan
 
 - **Mentorship**. We endeavour to match every team to a suitable mentor who connects with the scholars synchronously or asynchronously at least once a month and provides feedback on their research outputs. 
 
-- **Skill development workshops**. To assist with preparation of the micropublication and the seminar, we will be running workshops on [science writing](../workshops/science_writing.md) and [oral presentation](../workshops/oral_presentations.md).
-
-- **Community support**. There will be regular check-ins from the program organisers on the #cisp-community forum channel on Discord for participants to share both successes and struggles.
+- **Community support**. There will be regular check-ins from the program organisers on the #cisp-community forum channel on the Climatematch's Discord Community Server for participants to share both successes and struggles.
 
 We are actively working to provide participants with further professional and academic opportunities and additionally encourage them to take part in Climatematch seminars, journal club meetings, and professional development survey series. These are not strictly part of the program, but are aligned with the scholars' project topics and career aspirations.
 
 ---
-## **Program timeline**
-<table style="width:60%">
+## **Program tentative timeline**
+<table style="width:90%">
 <tr>
-    <td><b>October 2023</b></td>
+    <td><b>9 October 2023</b></td>
+    <td>Impact Scholars survey deadline</td>
+</tr>
+<tr>
+    <td><b>16-17 October 2023</b></td>
     <td>Welcome Event for scholars and mentors</td>
 </tr>
 <tr>
-    <td><b>December 2023</b></td>
-    <td>Workshop on science writing</td>
-</tr>
-<tr>
-    <td><b>Early January 2024</b></td>
-    <td>Workshop on oral presentation</td>
+    <td><b>October - December 2023</b></td>
+    <td>Regular check-ins on Discord and mentor meetings</td>
 </tr>
 <tr>
     <td><b>12th January 2024</b></td>
     <td>Research output submission deadline</td>
 </tr>
 <tr>
-    <td><b>Late January 2024</b></td>
-    <td>Feedback on research outputs</td>
+    <td><b>January 2024</b></td>
+    <td>End-of-program Celebration Event</td>
 </tr>
 <tr>
     <td><b>February 2024</b></td>
+    <td>Feedback on research outputs</td>
+</tr>
+<tr>
+    <td><b>March-April 2024</b></td>
     <td>Micropublication release and seminar presentations</td>
 </tr>
 </table>

@@ -1,13 +1,17 @@
 # Become a Climatematch Impact Scholar!
 
-```{warning}
+```{important}
    Applications for the 2023 program have closed!
 ```
 ## **Eligibility**
 In order to apply, you must:
-- **have completed the most recent [Climatematch Academy course](https://comptools.climatematch.io/tutorials/intro.html) as a student or a Teaching Assistant.** Course completion is validated through certification. Teaching Assistants are joining teams as equal collaborators.
+- **have completed the most recent [Climatematch Academy course](https://comptools.climatematch.io/tutorials/intro.html) as a student or a Teaching Assistant.** 
+  - Course completion is validated through certification. 
+  - Teaching Assistants are joining teams as equal collaborators.
 
-- **be part of a team**. Individual applications will not be considered, but see [FAQs](#frequently-asked-questions). There is no maximum size limit for the teams, but every applicant must be part of no more than a single team. 
+- **be part of a team**. 
+  - Individual applications will not be considered, but see [FAQs](#frequently-asked-questions).
+  - There is no maximum size limit for the teams, but every applicant must be part of no more than a single team. 
 
 
 ---

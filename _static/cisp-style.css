@@ -1,0 +1,4 @@
+table td {
+  border: 2px solid var(--bs-border-color);
+  padding: 15px;
+}

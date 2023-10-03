@@ -9,14 +9,14 @@ Apply here: https://airtable.com/appLHqbcnAQ1EUO47/shrDDmUFZ594k6KQ0
 ## Why be a mentor? 
 Climate models struggle to predict the impact of climate change on a local scale. In collaboration with our program, mentors will support early career scientists as they help identify cutting edge climate-change related questions with benefits to local ecosystems and communities. 
 
-Mentors will also become official collaborators on the project which will conclude with a micropublication. If there is mutual interest in continuing the collaboration on the project beyond the end of the program, we will do our best to support work towards a publication in a scientific journal by facilitating continued, uninterrupted provision of the computing resources to the scholars.
+Mentors will also become official collaborators on the project which will conclude with submission of a micropublication and a seminar presentation by the project teams. If there is mutual interest in continuing the collaboration on the project beyond the end of the program, we will do our best to support work towards a publication in a scientific journal by facilitating continued, uninterrupted provision of the computing resources to the scholars.
 
 ---
 ## What do mentors do? 
 Mentors support scholars to continue a research project they have started during the Climatematch Academy. In particular, mentors will:
-- Connect with their group at least once per month for 1-2 hours either synchronously (zoom meeting) or asynchronously (email or discord). We estimate the total minimum time commitment to be 6-8 hours.
-- Provide constructive feedback on outputs (project proposal, presentation slides, micropub drafts) 
-- Attend a welcome meeting (early October 2023) and an end of program celebration meeting (January 2024) with all scholars and mentors. Both via Zoom. 
+- Connect with their group at least once per month for 1-2 hours either synchronously (zoom meeting) or asynchronously (email or Discord). We estimate the total minimum time commitment to be 6-8 hours.
+- Provide constructive feedback on outputs (project proposal, presentation slides, micropublication drafts) 
+- Attend a welcome meeting (mid-October 2023) and an end of program celebration meeting (January 2024) with all scholars and mentors. Both via Zoom. 
 
 We encourage mentors to interact with their group beyond the minimum of 6-8 hours required by the program if this aligns with the goals of the mentor and group. Besides more in-depth project discussions, additional mentor-scholar interactions could surround topics including the mentor’s work or general career advice.  
 
@@ -25,6 +25,7 @@ We encourage mentors to interact with their group beyond the minimum of 6-8 hour
 To advise a group of Impact Scholars, mentors should: 
 - have **experience** conducting research on a topic related to the region, dataset, or scientific question of their group
 - have a **keen interest** in encouraging up-and-coming scientists and international collaborations
+
 Knowledge of Python and experience supervising junior researchers are a plus, but not required. 
 
 If you have any questions regarding the mentor role please feel free to contact mentors@climatematch.io.
