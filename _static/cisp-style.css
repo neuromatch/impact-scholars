@@ -2,3 +2,23 @@ table td {
   border: 2px solid var(--bs-border-color);
   padding: 15px;
 }
+
+html[data-theme=light]{
+  --pst-color-primary: #e18256;
+  --pst-color-secondary:#66ada9;
+  --pst-color-info:#313f76;
+}
+
+html[data-theme=dark]{
+  --pst-color-primary: #66ada9;
+  --pst-color-secondary: #e18256;
+  --pst-color-info:#66ada9;
+  --pst-color-info-bg:#3b6764;
+  --pst-color-warning:#f0ba7d;
+  --pst-color-warning-bg:#c6714a;
+}
+
+html[data-theme]{
+  --sbt-color-announcement: #313f76;
+}
+
