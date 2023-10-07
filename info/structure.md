@@ -5,9 +5,9 @@ The Climatematch Impact Scholars program runs between **October 2023** and **Jan
 ## **What is involved**
 - 💻**Computing resources**. Thanks to our partnership with [2i2c](https://2i2c.org/), selected groups will be provided with continued access to the Climatematch JupyterHub until the end of the program with a possibility of further extension if the scholars and their mentor are interested in working towards a peer-reviewed publication. 
 
-- 📝 **Citable micropublication**. At the end of the program, the scholars will write up their results in a micropublication that will be publicized on the program website and assigned a DOI. The scholars will also be offered a chance to share their work in their native language to increase its impact in their community.
+- 📝 **Citable micropublication**. At the end of the program, the scholars will write up their results in a [micropublication](../output-guidelines/micropublications.md) that will be publicized on the program website and assigned a DOI. The scholars will also be offered a chance to share their work in their native language to increase its impact in their community.
 
-- 🗣️ **Seminar presentation**. Also at the end of the program, the scholars will give a 20-minute virtual seminar that will be advertised on Climatematch social media and recorded for subsequent sharing on the course website.
+- 🗣️ **Seminar presentation**. Also at the end of the program, the scholars will give a 20-minute [virtual seminar](../output-guidelines/seminar_presentations.md) that will be advertised on Climatematch social media and recorded for subsequent sharing on the course website.
 
 - 🦉 **Mentorship**. We endeavour to match every team to a suitable mentor who connects with the scholars synchronously or asynchronously at least once a month and provides feedback on their research outputs. 
 
