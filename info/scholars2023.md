@@ -1,6 +1,6 @@
 # Impact Scholars 2023
 
-We are thrilled to introduce 15 teams of 74 Impact Scholars as part of our 2023 cohort! 
+We are thrilled to introduce 15 teams of 75 Impact Scholars as part of our 2023 cohort! 
 
 Their ambitious projects focus on pressing climate issues on local and global scales, as well as their societal impact.
 
@@ -19,7 +19,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 
 Team "Brachiosaurus_Bharatanatyam_Leggiero"
 
-Pallaw Mishra, Shashank Kumar Roy, Wil Laura
+Pallaw Mishra, Shashank Kumar Roy , Wil Laura
 
 ---
 
@@ -149,7 +149,7 @@ Ninibeth Sarmiento Herrera, Elisa Passos, Lakhvinder Kaur
 
 Team "Beipiaosaurus moonwalk"
 
-Sofia Corradi, Daniela Velásquez, Magnolia Song, Maryann Alata Chambilla, Manojna Polisetty
+Sofia Corradi, Daniela Velásquez, Magnolia Song, Maryann Alata Chambilla, Manojna Polisett,  Andres Figueroa
 
 ---
 
