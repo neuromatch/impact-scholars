@@ -19,7 +19,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 
 Team "Brachiosaurus_Bharatanatyam_Leggiero"
 
-Pallaw Mishra, Shashank Kumar Roy , Wil Laura
+Shashank Kumar Roy , Wil Laura, Anonymous Contributor[^1]
 
 ---
 
@@ -59,7 +59,7 @@ Douglas Medeiros Nehme, Gabriel Henrique da Silva Soares, Lívia Sancho
 
 Team "Fukuivenator Rhumba"
 
-Sthitapragya Ray, Andrea A. Cabrera, Diana Marcela Guzmán Lugo, Elizaveta Baranova-Parfenova, Vanni Consumi, Daria Proklova
+Sthitapragya Ray, Andrea A. Cabrera, Diana Marcela Guzmán Lugo, Vanni Consumi, Daria Proklova, Anonymous Contributor[^1]
 
 ---
 
@@ -109,7 +109,7 @@ Ximena Miranda, Sergei Nabatov, Abdus Samad, Jesús Pozo T., Alethia Kielbasa, B
 
 Team "Fortepiano"
 
-Zhixian Yang, René Gabriel Navarro Labastida, Selyn Rousse Acuña Cama, Tejaswini M. Pawase, Rosmery Lidez Condori Huanca, Naomi Nafisa Rahman
+Zhixian Yang, René Gabriel Navarro Labastida, Tejaswini M. Pawase, Rosmery Lidez Condori Huanca, Naomi Nafisa Rahman, Anonymous Contributor[^1]
 
 ---
 
@@ -119,7 +119,7 @@ Zhixian Yang, René Gabriel Navarro Labastida, Selyn Rousse Acuña Cama, Tejaswi
 
 Team "Andante"
 
-Lana Flanjak, Natalia Gabdrakhmanova, Timon Kunze, Farukcan Sağlam
+Lana Flanjak, Natalia Gabdrakhmanova, Farukcan Sağlam, Anonymous Contributor[^1]
 
 ---
 
@@ -162,3 +162,4 @@ Team "Jintasaurus Skip Energico"
 Agnessa Karapetian, Ana Carolina Temporao Marques Filipe, Kamil Vlcek, Sedem Buabassah, Hatice Busra Gokbunar, Xintong Huang
 
 
+[^1]: The identity of a team member has been hidden upon their request.
