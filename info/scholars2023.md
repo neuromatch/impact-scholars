@@ -109,7 +109,7 @@ Ximena Miranda, Sergei Nabatov, Abdus Samad, Jesús Pozo T., Alethia Kielbasa, B
 
 Team "Fortepiano"
 
-Zhixian Yang, René Gabriel Navarro Labastida, Tejaswini M. Pawase, Rosmery Lidez Condori Huanca, Naomi Nafisa Rahman, Anonymous Contributor[^1]
+Zhixian Yang, René Gabriel Navarro Labastida, Tejaswini M. Pawase, Rosmery Lidez Condori Huanca, Naomi Nafisa Rahman, Selyn Rousse Acuña Cama
 
 ---
 
