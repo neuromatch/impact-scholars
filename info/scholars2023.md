@@ -59,7 +59,7 @@ Douglas Medeiros Nehme, Gabriel Henrique da Silva Soares, Lívia Sancho
 
 Team "Fukuivenator Rhumba"
 
-Sthitapragya Ray, Andrea A. Cabrera, Diana Marcela Guzmán Lugo, Vanni Consumi, Daria Proklova, Anonymous Contributor[^1]
+Sthitapragya Ray, Andrea A. Cabrera, Diana Marcela Guzmán Lugo, Vanni Consumi, Daria Proklova, Elizaveta Baranova-Parfenova
 
 ---
 
