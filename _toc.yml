@@ -13,3 +13,7 @@ parts:
     title: Scholars 2023
   - file: info/mentors
     title: Mentors
+- caption: Research Outputs
+  chapters:
+  - file: output-guidelines/micropublications
+  - file: output-guidelines/seminar_presentations
