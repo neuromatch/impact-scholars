@@ -129,6 +129,20 @@ Mentorship is a two-way relationship, so we ask all scholars to actively practic
  Immediately communicate any violation of our Code of Conduct to cisp organizers via mentors@climatematch.io and let them handle the termination of the mentorship arrangement if necessary.
 
 ```
+
+## Acknowledgement
+
+Substantial portions of this document were adapted from:
+* [Open Science Lab Mentoring Guide][osl]
+* [Harvard Mentoring Guide][harvard]
+* [Mentor Me Programme of the Manchester Metropolitan University][mmu]
+* [Guidelines for Mentors and Mentees from the AWB][awb]
+
+## License
+
+This document incorporates and adapts content from [Open Science Lab Mentoring Guide][osl], which is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). To the extent that this document includes content from the original source, it is also licensed under CC BY 4.0.
+
+
 <!-- Links -->
 [harvard]: https://hlc.harvard.edu/wp-content/uploads/sites/2412/2015/10/Mentoring_Guide.pdf
 [mmu]: https://www.mmu.ac.uk/careers/students/mentor-me
