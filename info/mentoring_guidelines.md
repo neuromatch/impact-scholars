@@ -51,7 +51,7 @@ Scholars will then have time until the end of February to address the received f
 ---
 ## Ethics of mentoring
 
-Mentors and mentees should be aware of the [Climatematch Code of Conduct][coc]. Mentors must continually examine and reflect on their ethical values ​​and how they can influence decisions in their mentoring practice. Mentors must take responsibility for the power they hold and never use it abusively over more vulnerable others. In Climatematch, we are committed to having an open and transparent reporting structure for any abuse of power. Please report any anomaly at mentors@climatematch.io. 
+Mentors and mentees should be aware of the [Climatematch Code of Conduct][coc]. Mentors must continually examine and reflect on their ethical values ​​and how they can influence decisions in their mentoring practice. Mentors must take responsibility for the power they hold and never use it abusively over more vulnerable others. In Climatematch, we are committed to having an open and transparent reporting structure for any abuse of power. Please report any anomaly at mentors@climatematch.io and report any violations of the Code of Conduct through this [reporting form](https://airtable.com/app3DAkSp0lV5kU38/shrezDSthWPlJ4Rpy). 
 
 ---
 ## Mentoring best practices
