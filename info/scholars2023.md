@@ -119,7 +119,7 @@ Zhixian Yang, René Gabriel Navarro Labastida, Tejaswini M. Pawase, Rosmery Lide
 
 Team "Andante"
 
-Lana Flanjak, Natalia Gabdrakhmanova, Farukcan Sağlam, Anonymous Contributor[^1]
+Lana Flanjak, Natalia Gabdrakhmanova, Farukcan Sağlam, Timon Kunze
 
 ---
 
