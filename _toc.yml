@@ -2,19 +2,19 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: info/intro
+root: impact-scholars/intro
 parts:
 - caption: Program Overview
   chapters:
-  - file: info/structure
-  - file: info/application
+  - file: impact-scholars/structure
+  - file: impact-scholars/application
     title: Application
-  - file: info/scholars2023
+  - file: impact-scholars/scholars2023
     title: Scholars 2023
-  - file: info/mentors
+  - file: impact-scholars/mentors
     title: Mentors
     sections:
-    - file: info/mentoring_guidelines
+    - file: impact-scholars/mentoring_guidelines
 - caption: Research Outputs
   chapters:
   - file: output-guidelines/micropublications
