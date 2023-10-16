@@ -1,9 +1,36 @@
 # Mentors
 Mentors are **experienced scientists interested in supporting a group throughout the development of their research project** between October 2023 and January 2024.
 
-```{admonition} Mentor applications are open!
+```{admonition} One last spot remaining!
 Apply here: https://airtable.com/appLHqbcnAQ1EUO47/shrDDmUFZ594k6KQ0
 ```
+---
+## Mentors 2023
+- **Gizachew Agegn**
+  - [*Projected Influences of Interannual Climate Variability on Summer Monsoon Onset and Extreme Weather Events in the Indonesia-North Australia Monsoon Region*](./scholars2023.md#projected-influences-of-interannual-climate-variability-on-summer-monsoon-onset-and-extreme-weather-events-in-the-indonesia-north-australia-monsoon-region)
+- **Emma Daniels**
+  - [*ENSO's Influence on the Coastal Upwelling along Northwest Africa through the Pacific-North Atlantic Teleconnection*](./scholars2023.md#ensos-influence-on-the-coastal-upwelling-along-northwest-africa-through-the-pacific-north-atlantic-teleconnection)
+- **Surajit Deb Barma**
+  - [*Impact of Deforestation and Multi-year Cyclical Processes on Precipitation Patterns and Cereal Production in Congo River Basin*](./scholars2023.md#impact-of-deforestation-and-multi-year-cyclical-processes-on-precipitation-patterns-and-cereal-production-in-congo-river-basin)
+  - [*Predicting future impacts of ENSO on NDVI in the Greater Horn of Africa*](./scholars2023.md#predicting-future-impacts-of-enso-on-ndvi-in-the-greater-horn-of-africa)
+- **Brittany Engle**
+  - [*Fire Risk Assessment of the Andean-Patagonian Forest*](./scholars2023.md#fire-risk-assessment-of-the-andean-patagonian-forest)
+  - [*Wildfires in Angola: Burn Areas and Vegetation Index*](./scholars2023.md#wildfires-in-angola-burn-areas-and-vegetation-index)
+- **Fabrizio Falasca**
+  - [*Comparing Sea Level Height Measurements from Tidal Gauges and ECCO Model in Extreme Weather Events*](./scholars2023.md#comparing-sea-level-height-measurements-from-tidal-gauges-and-ecco-model-in-extreme-weather-events)
+  - [*Deepening into the rainy impact of El Niño events over South of Brazil precipitation*](./scholars2023.md#deepening-into-the-rainy-impact-of-el-niño-events-over-south-of-brazil-precipitation)
+- **Muhammed Muhshif Karadan**
+  - [*Proposal for heatwave in Asia(India)*](./scholars2023.md#proposal-for-heatwave-in-asiaindia)
+  - [*Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia*](./scholars2023.md#understanding-historical-and-future-impacts-of-el-niño-on-climate-and-food-production-in-colombia-and-indonesia)
+- **Oz Kira**
+  - [*Understanding the interactions of socio-economic policy, land use change, climate and carbon sequestration within the biomes of Mato Grosso: Integrating Land Cover, Precipitation, Temperature, GPP and Economic Factors*](./scholars2023.md#understanding-the-interactions-of-socio-economic-policy-land-use-change-climate-and-carbon-sequestration-within-the-biomes-of-mato-grosso-integrating-land-cover-precipitation-temperature-gpp-and-economic-factors)
+- **Kenny T.C. Lim Kam Sian**
+  - [*The Past and Future of Mediterranean Heat Waves*](./scholars2023.md#the-past-and-future-of-mediterranean-heat-waves)
+- **Risa Madoff**
+  - [*Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India*](./scholars2023.md#assessing-spatio-temporal-precipitation-variability-and-extreme-events-in-india)
+- **Tejas Dattaram More**
+  - [*Understand underlying mechanisms of ENSO and predicting its impact on the countries surrounding the Niño Region*](./scholars2023.md#understand-underlying-mechanisms-of-enso-and-predicting-its-impact-on-the-countries-surrounding-the-niño-region)
+
 
 ---
 ## Why be a mentor? 
