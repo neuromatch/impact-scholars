@@ -26,6 +26,8 @@ Apply here: https://airtable.com/appLHqbcnAQ1EUO47/shrDDmUFZ594k6KQ0
   - [*Understanding the interactions of socio-economic policy, land use change, climate and carbon sequestration within the biomes of Mato Grosso: Integrating Land Cover, Precipitation, Temperature, GPP and Economic Factors*](./scholars2023.md#understanding-the-interactions-of-socio-economic-policy-land-use-change-climate-and-carbon-sequestration-within-the-biomes-of-mato-grosso-integrating-land-cover-precipitation-temperature-gpp-and-economic-factors)
 - **Kenny T.C. Lim Kam Sian**
   - [*The Past and Future of Mediterranean Heat Waves*](./scholars2023.md#the-past-and-future-of-mediterranean-heat-waves)
+- **Luz de Lourdes Aurora**
+  - [*Analyzing Global Wind Potential for the Next 50 Years and its socio-economic impact*](./scholars2023.md#analyzing-global-wind-potential-for-the-next-50-years-and-its-socio-economic-impact)
 - **Risa Madoff**
   - [*Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India*](./scholars2023.md#assessing-spatio-temporal-precipitation-variability-and-extreme-events-in-india)
 - **Tejas Dattaram More**
