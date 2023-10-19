@@ -1,8 +1,8 @@
 # Mentors
 Mentors are **experienced scientists interested in supporting a group throughout the development of their research project** between October 2023 and January 2024.
 
-```{admonition} One last spot remaining!
-Apply here: https://airtable.com/appLHqbcnAQ1EUO47/shrDDmUFZ594k6KQ0
+```{important}
+  Applications for the 2023 program have closed!
 ```
 ---
 ## Mentors 2023
