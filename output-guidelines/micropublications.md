@@ -16,7 +16,7 @@ Duplicate one of the following templates for your team:
 
 * [CISP_contributors_table_template_granular](https://docs.google.com/spreadsheets/d/1xhmLgNYWlkJFdLRyZ9MHa5uT6nSgOkS7YwOUvDRRJAE/edit?usp=sharing): This is a replica of the previous template with more granularity added for each role. There are 2 types of contributions to choose from:
   - Lead - If a scholar has made major contributions in a role, choose this option.
-  - Support - If a scholar has primarily provided feedback or helped with brainstorming but hasn't made major contributions to the role, choose this option.
+  - Support - If a scholar has primarily provided support and feedback or helped with brainstorming but hasn't made major contributions to the role, choose this option.
 
 ## Micropublication guidelines
 ### A summary for the general public
