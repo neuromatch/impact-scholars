@@ -29,7 +29,7 @@ For inspiration, checkout some of the following resources:
 
 ### Keep the micropublication precise
 Include at least the following components in your micropublication submission:
-- **Title** : A single line reading which should provide the gist of the research conducted
+- **Title** : A single line which provides the gist of the research conducted
   
 - **Type of research** : Each micropublication should provide evidence to support **one** specific:
   - claim,
