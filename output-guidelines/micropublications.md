@@ -75,5 +75,5 @@ Please include any relevant code that can be used to reproduce the figure.
 
 ### Optional - Supplementary material
 Use this to upload any additional information relevant to your research output. 
-  - While we expect the micropublication submission to be in English, we encourage scholars to use this section to submit the micropublication or parts of the micropublication (such as the summary for the general pubic) in other languages. 
+  - While we expect the micropublication submission to be in English, we encourage scholars to use this section to submit the micropublication or parts of the micropublication (such as the summary for the general pubic) in other languages. You can submit this translated material even after the micropublication deadline using [this form](https://airtable.com/appLHqbcnAQ1EUO47/shrGDjPoLROYhRsHh).
   - If you are submitting more than 1 file, please upload them together in a .zip file.
