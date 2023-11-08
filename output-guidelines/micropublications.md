@@ -39,7 +39,7 @@ We request all the teams to track author contributions using the [CRediT taxonom
 - Templates: We are providing 2 templates to track author contributions throughout the program. **Each team is required to submit author contributions in one of these 2 formats.** Download one of the following templates for your team:
   - [CISP_contributors_table_template](https://docs.google.com/spreadsheets/d/140bNO83-GkOP1SYXWLpZmY27a5wxtj97gOR-5CaMXDQ/edit?usp=sharing): This template was adopted from [tenzing.club](https://contributorshipcollaboration.github.io/projects/tenzingclub). 
   - [CISP_contributors_table_template_granular](https://docs.google.com/spreadsheets/d/1fw34ZjKaZQ9iv6ld6YT1kZP2uyg0CbmJIZdM88tb07E/edit?usp=sharing): This is a replica of the previous template with more granularity added for each role. There are 2 types of contributions to choose from:
-    - Lead: If a scholar has made major contributions in a role, choose this option.
+    - Lead: If a scholar has made major contributions in a role, choose this option. Multiple people can have this role.
     - Support: If a scholar has primarily provided support and feedback or helped with brainstorming but hasn't made major contributions to the role, choose this option.
 Feel free to leave blanks for Roles that aren't relevant for your team. Please use the Notes column to let us know of any specifics that aren't captured in the 14 categories, such as additional roles or other degrees of contribution.
 ### Main Text
