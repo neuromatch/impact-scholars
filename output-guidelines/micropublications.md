@@ -47,7 +47,7 @@ Based on the type of research, please elaborate on the single claim, observation
   - Word limit: 1500 words
   - Format: markdown (i.e. a .md or .markdown file). Please refer to [this official guide](https://daringfireball.net/projects/markdown/) for details on this open format.
   - To make the results reproducible, authors may add supplementary methods if the 1500 word limit isn't sufficient to report the steps to reproduce the results.
-  - References : Please add external links to any references directly in the main text using the markdown format of [inline-style links](https://daringfireball.net/projects/markdown/syntax#link) where the link text in square brackets is immediately followed by the link in parentheses. Wherever possible please add DOIs for the citations. 
+  - References : Please add external links to any references directly in the main text using the markdown format of [inline-style links](https://daringfireball.net/projects/markdown/syntax#link) where the link text in square brackets is immediately followed by the link in parentheses. Wherever possible please add DOIs for the citations. References are not included in the word count.
       
 ### Figure
 Support your claim, observation, or method with **a single figure**.
