@@ -34,7 +34,7 @@ All teams are expected to submit a short summary of their research that can be e
   - [Dance your PhD](https://www.youtube.com/results?search_query=dance+your+phd)
 
 ### Author Contributions
-We request all the teams to track author contributions using the [CRediT taxonomy](https://credit.niso.org). Click on each of the 14 contributor roles to see what they constitute. We discourage giving credits to a scholar (including any former TAs) or mentor if they haven't contributed to the project at all. 
+We request all the teams to track author contributions using the [CRediT taxonomy](https://credit.niso.org). Click on each of the 14 contributor roles to see what they constitute. We discourage giving credits to a scholar (including any former teaching assistants) or mentor if they haven't contributed to the project at all. 
 - Format: .csv, .ods, or .tsv
 - Templates: We are providing 2 templates to track author contributions throughout the program. **Each team is required to submit author contributions in one of these 2 formats.** Download one of the following templates for your team:
   - [CISP_contributors_table_template](https://docs.google.com/spreadsheets/d/140bNO83-GkOP1SYXWLpZmY27a5wxtj97gOR-5CaMXDQ/edit?usp=sharing): This template was adopted from [tenzing.club](https://contributorshipcollaboration.github.io/projects/tenzingclub). Feel free to leave blanks for Roles that aren't relevant for your team. Please use the Notes column to let us know of any specifics that aren't captured in the 14 categories (such a equal contribution, or additional roles other than the 14 that are a part of CRediT).
