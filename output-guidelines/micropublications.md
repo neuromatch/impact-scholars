@@ -53,7 +53,7 @@ Based on the type of research, please elaborate on the single claim, observation
 Support your claim, observation, or method with **a single figure**.
   - Format: .svg or .png
   - Add figure legends for each of the panels within this single figure.
-  - You can add upto 6 panels to this figure.
+  - You can add up to 6 panels to this figure.
   - Please be mindful of avoiding colors (such as red, especially in combination with green or black) that are commonly not visible to people with color blindness. We encourage you to try tools like the [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator) to check the accessibility of the figure. If possible, use shapes instead of colors to disambiguate objects.
   - If you've run simulation(s) and feel that a video or gif may be more informative, please feel free to add that instead of a figure.
  
