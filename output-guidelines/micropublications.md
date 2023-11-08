@@ -25,7 +25,7 @@ Each micropublication should provide evidence to support **one** specific:
 Please choose one of the above 3 options.
 
 ### A summary for the general public
-All teams are expected to submit a short summary of their research that can be easily grasped by a non-scientific audience. This summary will be shared on our website and social media to make your research more accessible and to help your research have a larger *impact*. You are welcome to submit a text summary if you'd like but we are not providing any prescriptions for what this summary should look like as we'd like the scholars to be able to use any creative means (such as videos, comics, poems, songs) to communicate their research findings. 
+All teams are expected to submit a short summary of their research that can be easily grasped by a non-scientific audience. This summary will be shared on our website and social media to make your research more accessible and to help your research have greater *impact*. You are welcome to submit a text summary (~150 words) or choose a more creative format (such as videos, comics, poems, songs) to communicate your research findings. 
 
 - Format : please avoid using proprietary data formats for your creative submissions. 
 - For inspiration, checkout some of the following resources:
