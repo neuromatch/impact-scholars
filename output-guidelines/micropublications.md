@@ -25,23 +25,26 @@ Each micropublication should provide evidence to support **one** specific:
 Please choose one of the above 3 options.
 
 ### A summary for the general public
-All teams are expected to submit a short summary of their research that can be easily grasped by a non-scientific audience. This summary will be shared on our website and social media to make your research more accessible and to help your research have greater *impact*. You are welcome to submit a text summary (~150 words) or choose a more creative format (such as videos, comics, poems, songs) to communicate your research findings. 
-
-- Format : please avoid using proprietary data formats for your creative submissions. 
-- For inspiration, checkout some of the following resources:
-  - [Cartoonists tackling climate change through webcomics](https://www.dw.com/en/cartoonists-tackling-climate-change-through-webcomics/a-63499432)
-  - [Rajan lab comics](https://www.rajanlab.com/comics)
-  - [Dance your PhD](https://www.youtube.com/results?search_query=dance+your+phd)
+All teams are expected to submit a short summary of their research that can be easily grasped by a non-scientific audience. 
+  - This summary will be shared on our website and social media to make your research more accessible and to help your research have greater *impact*. 
+  - You are welcome to submit a text summary (~150 words) or choose a more creative format (such as videos, comics, poems, songs) to communicate your research findings. The public summary should be easy to understand irrespective of which format you choose.
+  - Format : please avoid using proprietary data formats for your creative submissions.
+  - For inspiration, checkout some of the following resources:
+    - [Cartoonists tackling climate change through webcomics](https://www.dw.com/en/cartoonists-tackling-climate-change-through-webcomics/a-63499432)
+    - [Rajan lab comics](https://www.rajanlab.com/comics)
+    - [Dance your PhD](https://www.youtube.com/results?search_query=dance+your+phd)
 
 ### Author Contributions
-We request all the teams to track author contributions using the [CRediT taxonomy](https://credit.niso.org). Click on each of the 14 contributor roles to see what they constitute. We discourage giving credits to a scholar (including any former teaching assistants) or mentor if they haven't contributed to the project at all. 
+We request all the teams to track author contributions using the [CRediT taxonomy](https://credit.niso.org). Click on each of the 14 contributor roles to see what they constitute. We discourage giving credits to a scholar (including any former teaching assistant) or mentor if they haven't contributed to the project at all. 
 - Format: .csv, .ods, or .tsv
 - Templates: We are providing 2 templates to track author contributions throughout the program. **Each team is required to submit author contributions in one of these 2 formats.** Download one of the following templates for your team:
   - [CISP_contributors_table_template](https://docs.google.com/spreadsheets/d/140bNO83-GkOP1SYXWLpZmY27a5wxtj97gOR-5CaMXDQ/edit?usp=sharing): This template was adopted from [tenzing.club](https://contributorshipcollaboration.github.io/projects/tenzingclub). 
   - [CISP_contributors_table_template_granular](https://docs.google.com/spreadsheets/d/1fw34ZjKaZQ9iv6ld6YT1kZP2uyg0CbmJIZdM88tb07E/edit?usp=sharing): This is a replica of the previous template with more granularity added for each role. There are 2 types of contributions to choose from:
     - Lead: If a scholar has made major contributions in a role, choose this option. Multiple people can have this role.
     - Support: If a scholar has primarily provided support and feedback or helped with brainstorming but hasn't made major contributions to the role, choose this option.
-Feel free to leave blanks for Roles that aren't relevant for your team. Please use the Notes column to let us know of any specifics that aren't captured in the 14 categories, such as additional roles or other degrees of contribution.
+  - Feel free to leave blanks for Roles that aren't relevant for your team.
+  - Please use the Notes column to let us know of any specifics that aren't captured in the 14 categories, such as additional roles or other degrees of contribution.
+    
 ### Main Text
 Based on the type of research, please elaborate on the single claim, observation, or method. Think of this section as the combination of the Methods, Results, and Discussion sections of a journal-style research article. 
   - Word limit: 1500 words
@@ -52,10 +55,14 @@ Based on the type of research, please elaborate on the single claim, observation
 ### Figure
 Support your claim, observation, or method with **a single figure**.
   - Format: .svg or .png
-  - Add figure legends for each of the panels within this single figure.
   - You can add up to 6 panels to this figure.
   - Please be mindful of avoiding colors (such as red, especially in combination with green or black) that are commonly not visible to people with color blindness. We encourage you to try tools like the [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator) to check the accessibility of the figure. If possible, use shapes instead of colors to disambiguate objects.
   - If you've run simulation(s) and feel that a video or gif may be more informative, please feel free to add that instead of a figure.
+
+### Figure Legends
+Add figure legends for each of the panels within the single figure.
+  - Please add the figure legend directly in the text box.
+  - If you've uploaded a video instead of a figure, please describe the video.
  
 ### Code
 Please include any relevant code that can be used to reproduce the figure.
@@ -63,8 +70,10 @@ Please include any relevant code that can be used to reproduce the figure.
   - Each code can be in the form of separate file(s) such as a jupyter notebook, jupyter book, or other code file(s).
   - Code written in a proprietaty software format or language will not be accepted. We require the code to be open source.
   - Do provide a ReadMe.md file with clear instructions on how to run the code and how to access the data.
-  - Data: Please also provide clear instructions in the code on how to access the data used to conduct the research.
+  - Data : Please also provide clear instructions in the code on how to access the data used to conduct the research.
   - You are welcome to add a link to your code's repository in the ReadMe.md file but we require all code to be submitted as well.
 
 ### Optional - Supplementary material
-Use this to upload any additional information relevant to your research output.
+Use this to upload any additional information relevant to your research output. 
+  - While we expect the micropublication submission to be in English, we encourage scholars to use this section to submit the micropublication or parts of the micropublication (such as the summary for the general pubic) in other languages. 
+  - If you are submitting more than 1 file, please upload them together in a .zip file.
