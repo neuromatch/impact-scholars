@@ -41,7 +41,7 @@ We request all the teams to track author contributions using the [CRediT taxonom
   - [CISP_contributors_table_template_granular](https://docs.google.com/spreadsheets/d/1fw34ZjKaZQ9iv6ld6YT1kZP2uyg0CbmJIZdM88tb07E/edit?usp=sharing): This is a replica of the previous template with more granularity added for each role. There are 2 types of contributions to choose from:
     - Lead: If a scholar has made major contributions in a role, choose this option.
     - Support: If a scholar has primarily provided support and feedback or helped with brainstorming but hasn't made major contributions to the role, choose this option.
-   
+Feel free to leave blanks for Roles that aren't relevant for your team. Please use the Notes column to let us know of any specifics that aren't captured in the 14 categories, such as additional roles or other degrees of contribution.
 ### Main Text
 Based on the type of research, please elaborate on the single claim, observation, or method. Think of this section as the combination of the Methods, Results, and Discussion sections of a journal-style research article. 
   - Word limit: 1500 words
