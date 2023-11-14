@@ -18,7 +18,6 @@ Mentors are **experienced scientists interested in supporting a group throughout
   - [*Wildfires in Angola: Burn Areas and Vegetation Index*](./scholars2023.md#wildfires-in-angola-burn-areas-and-vegetation-index)
 - **Fabrizio Falasca**
   - [*Comparing Sea Level Height Measurements from Tidal Gauges and ECCO Model in Extreme Weather Events*](./scholars2023.md#comparing-sea-level-height-measurements-from-tidal-gauges-and-ecco-model-in-extreme-weather-events)
-  - [*Deepening into the rainy impact of El Niño events over South of Brazil precipitation*](./scholars2023.md#deepening-into-the-rainy-impact-of-el-niño-events-over-south-of-brazil-precipitation)
 - **Muhammed Muhshif Karadan**
   - [*Proposal for heatwave in Asia(India)*](./scholars2023.md#proposal-for-heatwave-in-asiaindia)
   - [*Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia*](./scholars2023.md#understanding-historical-and-future-impacts-of-el-niño-on-climate-and-food-production-in-colombia-and-indonesia)

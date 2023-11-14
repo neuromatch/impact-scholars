@@ -1,6 +1,6 @@
 # Impact Scholars 2023
 
-We are thrilled to introduce **15 teams** of **74 Impact Scholars** representing **30 countries** as part of our 2023 cohort! 
+We are thrilled to introduce **14 teams** of **71 Impact Scholars** representing **30 countries** as part of our 2023 cohort! 
 
 Their ambitious projects focus on pressing climate issues on local and global scales, as well as their societal impact.
 
@@ -19,7 +19,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 
 Team "Brachiosaurus_Bharatanatyam_Leggiero"
 
-Shashank Kumar Roy , Wil Laura, Anonymous Contributor[^1]
+Shashank Kumar Roy , Anonymous Contributor[^1]
 
 **Mentor:** Luz de Lourdes Aurora
 
@@ -51,18 +51,6 @@ Stefy Thomas, Sattiki Ganguly, Jeciliya Selva Kiruba S, Khushi Dani, Dr. P P Cho
 
 <div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">4.</div></div>
 
-## Deepening into the rainy impact of El Niño events over South of Brazil precipitation
-
-Team "Staccato"
-
-Douglas Medeiros Nehme, Lívia Sancho
-
-**Mentor:** Fabrizio Falasca
-
----
-
-<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">5.</div></div>
-
 ## ENSO's Influence on the Coastal Upwelling along Northwest Africa through the Pacific-North Atlantic Teleconnection
 
 Team "Fukuivenator Rhumba"
@@ -73,7 +61,7 @@ Sthitapragya Ray, Andrea A. Cabrera, Diana Marcela Guzmán Lugo, Vanni Consumi, 
 
 ---
 
-<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">6.</div></div>
+<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">5.</div></div>
 
 ## Fire Risk Assessment of the Andean-Patagonian Forest
 
@@ -85,7 +73,7 @@ Cristian Farfan, Ricardo Rengifo, Raphael Rocha, Luciana Rojas, Franco Barrionue
 
 ---
 
-<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #f0ba7d; margin: 10px 0px;">7.</div></div>
+<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #f0ba7d; margin: 10px 0px;">6.</div></div>
 
 ## Proposal for heatwave in Asia(India)
 
@@ -97,7 +85,7 @@ Ahmad Rashiq, Seyed Mehdi Mirbazel, Arihant Jain
 
 ---
 
-<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #a2bbd4; margin: 10px 0px;">8.</div></div>
+<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #a2bbd4; margin: 10px 0px;">7.</div></div>
 
 ## Impact of Deforestation and Multi-year Cyclical Processes on Precipitation Patterns and Cereal Production in Congo River Basin
 
@@ -109,7 +97,7 @@ James Hartzell, Magda Altman, Pratik Bhandari, Lorenzo Pierini, Masoumeh Bahri, 
 
 ---
 
-<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">9.</div></div>
+<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">8.</div></div>
 
 ## Predicting future impacts of ENSO on NDVI in the Greater Horn of Africa
 
@@ -121,7 +109,7 @@ Ximena Miranda, Sergei Nabatov, Abdus Samad, Jesús Pozo T., Alethia Kielbasa, B
 
 ---
 
-<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">10.</div></div>
+<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">9.</div></div>
 
 ## Projected Influences of Interannual Climate Variability on Summer Monsoon Onset and Extreme Weather Events in the Indonesia-North Australia Monsoon Region
 
@@ -133,7 +121,7 @@ Zhixian Yang, René Gabriel Navarro Labastida, Tejaswini M. Pawase, Rosmery Lide
 
 ---
 
-<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #f0ba7d; margin: 10px 0px;">11.</div></div>
+<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #f0ba7d; margin: 10px 0px;">10.</div></div>
 
 ## The Past and Future of Mediterranean Heat Waves
 
@@ -145,7 +133,7 @@ Lana Flanjak, Natalia Gabdrakhmanova, Farukcan Sağlam, Timon Kunze
 
 ---
 
-<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">12.</div></div>
+<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">11.</div></div>
 
 ## Understand underlying mechanisms of ENSO and predicting its impact on the countries surrounding the Niño Region
 
@@ -157,7 +145,7 @@ Kirtana Sunil Phatnani, Kimia Marvi, Anjana Shree, Neil Marc Sordilla, Eligio Ma
 
 ---
 
-<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">13.</div></div>
+<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #67ada9; margin: 10px 0px;">12.</div></div>
 
 ## Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia
 
@@ -169,7 +157,7 @@ Ninibeth Sarmiento Herrera, Elisa Passos, Lakhvinder Kaur
 
 ---
 
-<div style="text-align: center; line-height: 30px; color: white; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #596a63; margin: 10px 0px;">14.</div></div>
+<div style="text-align: center; line-height: 30px; color: white; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #596a63; margin: 10px 0px;">13.</div></div>
 
 ## Understanding the interactions of socio-economic policy, land use change, climate and carbon sequestration within the biomes of Mato Grosso: Integrating Land Cover, Precipitation, Temperature, GPP and Economic Factors
 
@@ -181,7 +169,7 @@ Sofia Corradi, Daniela Velásquez, Magnolia Song, Maryann Alata Chambilla, Manoj
 
 ---
 
-<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #e18256; margin: 10px 0px;">15.</div></div>
+<div style="text-align: center; line-height: 30px; color: black; font-size: 18px; font-weight: bold; width: 30px;"><div style="background-color: #e18256; margin: 10px 0px;">14.</div></div>
 
 ## Wildfires in Angola: Burn Areas and Vegetation Index
 
