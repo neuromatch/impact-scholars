@@ -1,7 +1,18 @@
 # Micropublications
 
 ```{admonition} Workshop
-We are working on arranging a workshop on micropublications in December 2023. Check back for confirmation! 
+The workshop will cover a range of best (micro)publication practices - from communication clarity to author credit assignment. It will be an opportunity to ask questions and receive feedback on specific research outputs. 
+
+To get the most out of the workshop, we ask that the scholars come prepared with:
+- a description of the work they are doing - it does not need to be a formal abstract at this point
+- a rough figure - it does not need to be polished, but it should be understandable with a legend/labels
+- a breakdown of who has done what - the scholars need not have looked at [CRediT](https://credit.niso.org/) already, but should be able to explain what everyone's roles are
+
+The workshop will be held twice to accommodate as many scholars as possible.
+- **18 December 2023**: 18:30-20:00 UTC
+- **20 December 2023**: 14:00-15:30 UTC
+
+See the cisp-community channel on Discord for a link to the sign-up form!
 ```
 ## Submission Form
 We require all teams to submit a micropublication at the end of the program using [this form](https://airtable.com/appLHqbcnAQ1EUO47/shrfR7WzpKqGPBu3W). 
