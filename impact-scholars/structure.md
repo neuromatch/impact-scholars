@@ -47,7 +47,7 @@ We are actively working to provide participants with further professional and ac
     <td>Workshop on micropublications</td>
 </tr>
 <tr>
-    <td><b>12th January 2024</b></td>
+    <td><b>12 January 2024</b></td>
     <td>Micropublication submission deadline</td>
 </tr>
 <tr>
