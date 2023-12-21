@@ -4,9 +4,9 @@ The first cohort of Climatematch Impact Scholars will share their work in a seri
 
 These seminars will be <u>open to the public</u>. Please register for the seminars of interest below!
 
-The presenting scholars will additionally engage in <u>30-minute networking sessions</u> with scientists from CMIP and LEAP *immediately after* the seminar times stated on this page.
+The <u>last 30 minutes of each event</u> will be dedicated to networking sessions between the presenting scholars and scientists from CMIP and LEAP.
 
-## Seminar 1: 26th March, 10:00-11:00 UTC
+## Seminar 1: 26th March, 10:00-11:30 UTC
 ```{figure} ../impact-scholars/images/seminar_banner_1.png
 ---
 width: 100%
@@ -22,7 +22,7 @@ width: 100%
 
 <hr style="border:2px solid gray">
 
-## Seminar 2: 26th March, 13:00-14:30 UTC
+## Seminar 2: 26th March, 13:00-15:00 UTC
 ```{figure} ../impact-scholars/images/seminar_banner_2.png
 ---
 width: 100%
@@ -41,7 +41,7 @@ width: 100%
 <hr style="border:2px solid gray">
 
 
-## Seminar 3: 27th March, 16:00-17:30 UTC
+## Seminar 3: 27th March, 16:00-18:00 UTC
 ```{figure} ../impact-scholars/images/seminar_banner_3.png
 ---
 width: 100%
@@ -60,7 +60,7 @@ width: 100%
 <hr style="border:2px solid gray">
 
 
-## Seminar 4: 27th March, 21:00-22:00 UTC
+## Seminar 4: 27th March, 21:00-22:30 UTC
 ```{figure} ../impact-scholars/images/seminar_banner_4.png
 ---
 width: 100%
