@@ -22,3 +22,6 @@ html[data-theme]{
   --sbt-color-announcement: #313f76;
 }
 
+#clickybox {
+  cursor: pointer;
+}
