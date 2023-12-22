@@ -11,7 +11,7 @@ sphinx:
     language: en
     myst_heading_anchors: 2
     html_theme_options:
-      # announcement: "<font size = '6'>🌍🌎🌏 We are looking for mentors with experience in climate research! <br> <a href='https://airtable.com/appLHqbcnAQ1EUO47/shrDDmUFZ594k6KQ0' style='color:#f0ba7d;'><b>APPLY HERE!</b></a></font>"  
+      announcement: "<font size = '6'>Impact Scholar seminars will take place on 26-27 March 2024<br><a href='https://programs.climatematch.io/output-guidelines/seminar_presentations.html' style='color:#f0ba7d;'>REGISTER TO ATTEND!</a></font>"  
       logo:
         text: Climatematch Impact Scholars Program 
     html_sidebars:
