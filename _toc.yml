@@ -19,3 +19,5 @@ parts:
   chapters:
   - file: output-guidelines/micropublications
   - file: output-guidelines/seminar_presentations
+    sections:
+    - file: output-guidelines/seminar_guidelines
