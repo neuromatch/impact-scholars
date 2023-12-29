@@ -12,7 +12,7 @@ The presentation part of each session will be open to the public and recorded. R
 ## Specific presentation requirements
 - talks should be **10 minutes** long
 - groups should **mention the data** they used in their projects and include a slide about their **experience working with the data** (what did you find helpful? what did you struggle with?)
-- groups using CMIP data should add the **CMIP logo** to their presentations (you can get a high-res logo [here](https://wcrp-cmip.org/branding/))
+- groups using CMIP data should add the **CMIP logo** to their presentations (you can get a high resolution logo [here](https://wcrp-cmip.org/branding/))
 
 ## Resources: how to give a good short talk?
 - ["The Art of Selling Science: Presenting an engaging scientific talk" by Caitlin Grzeskowiak, PLOS Early Career Research Community](https://ecrcommunity.plos.org/2017/01/31/the-art-of-selling-science-presenting-an-engaging-scientific-talk/)
