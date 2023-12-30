@@ -14,7 +14,7 @@ The presentation part of each session will be open to the public and recorded. R
 - groups should **mention the data** they used in their projects and include a slide about their **experience working with the data** (what did you find helpful? what did you struggle with?)
 - groups using CMIP data should add the **CMIP logo** to their presentations (you can get a high resolution logo [here](https://wcrp-cmip.org/branding/))
 
-## Resources: how to give a good short talk?
+## Resources: how to give a short research talk?
 - ["The Art of Selling Science: Presenting an engaging scientific talk" by Caitlin Grzeskowiak, PLOS Early Career Research Community](https://ecrcommunity.plos.org/2017/01/31/the-art-of-selling-science-presenting-an-engaging-scientific-talk/)
 - ["Ten simple rules for effective presentation slides" by Kristen M. Naegle (2021), PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009554)
 - [Tips on making your presentation accessible and increasing its impact by The Turing Way initiative](https://the-turing-way.netlify.app/communication/presentations)
