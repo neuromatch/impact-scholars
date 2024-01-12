@@ -6,9 +6,9 @@ Team "Protoceratops_Jitterbug_Vivace"
 
 Mentor: **Muhammed Muhshif Karadan**
 
-```{figure} scholar-outputs/2023/team-photos/team_project12.jpeg
+```{figure} team-photos/team_project12.jpeg
 ---
 width: 100%
 ---
-Team "Protoceratops_Jitterbug_Vivace" during a meeting
+Team "Protoceratops_Jitterbug_Vivace" and their mentor during a meeting
 ```
