@@ -10,7 +10,22 @@ parts:
   - file: impact-scholars/application
     title: Application
   - file: impact-scholars/scholars2023
-    title: Scholars 2023
+    title: Projects 2023
+    sections:
+    - file: scholar-outputs/2023/project1
+    - file: scholar-outputs/2023/project2
+    - file: scholar-outputs/2023/project3
+    - file: scholar-outputs/2023/project4
+    - file: scholar-outputs/2023/project5
+    - file: scholar-outputs/2023/project6
+    - file: scholar-outputs/2023/project7
+    - file: scholar-outputs/2023/project8
+    - file: scholar-outputs/2023/project9
+    - file: scholar-outputs/2023/project10
+    - file: scholar-outputs/2023/project11
+    - file: scholar-outputs/2023/project12
+    - file: scholar-outputs/2023/project13
+    - file: scholar-outputs/2023/project14
   - file: impact-scholars/mentors
     title: Mentors
     sections:
