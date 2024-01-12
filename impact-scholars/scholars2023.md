@@ -1,4 +1,4 @@
-# Impact Scholars 2023
+# Impact Scholar projects 2023
 
 We are thrilled to introduce **14 teams** of **71 Impact Scholars** representing **30 countries** as part of our 2023 cohort! 
 
