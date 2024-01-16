@@ -1,9 +1,14 @@
-# Understanding the interactions of socio-economic policy, land use change, climate and carbon sequestration within the biomes of Mato Grosso: Integrating Land Cover, Precipitation, Temperature, GPP and Economic Factors
+# Understanding Land Cover Change in a Tropical Region due to Rapid Agricultural Increase: Interactions with Environmental and Socioeconomic Factors
 
 Team "Beipiaosaurus moonwalk"
 
-**Sofia Corradi**, **Daniela Velásquez**, **Magnolia Song**, **Maryann Alata Chambilla**, **Manojna Polisett**,  **Andres Figueroa**
+**Sofia Corradi Oliveira**, **Andrés Fernando Figueroa Curo**, **Magnolia Song**, **Manojna Polisetty**, **Daniela Velásquez**, **Maryann Alessandra Alata Chambilla**
 
 Mentor: **Oz Kira**
 
+<div style="text-align: justify">
 
+</div>
+
+---
+The full micropublication will be shared here at the end of March 2024.

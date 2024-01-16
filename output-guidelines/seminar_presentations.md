@@ -12,9 +12,9 @@ The <u>last 30 minutes of each event</u> will be dedicated to networking session
 width: 100%
 ---
 ```
-- [**ENSO's Influence on the Coastal Upwelling along Northwest Africa through the Pacific-North Atlantic Teleconnection**](../scholar-outputs/2023/project4)
+- [**Influence of ENSO on the coastal upwelling along Northwest Africa**](../scholar-outputs/2023/project4)
 
-- [**Wildfires in Angola: Burn Areas and Vegetation Index**](../scholar-outputs/2023/project14)
+- [**Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity**](../scholar-outputs/2023/project14)
 
 - [**Impact of Deforestation and Multi-year Cyclical Processes on Precipitation Patterns and Cereal Production in Congo River Basin**](../scholar-outputs/2023/project7)
 
@@ -28,7 +28,7 @@ width: 100%
 width: 100%
 ---
 ```
-- [**Projected Influences of Interannual Climate Variability on Summer Monsoon Onset and Extreme Weather Events in the Indonesia-North Australia Monsoon Region**](../scholar-outputs/2023/project9)
+- [**Impact of Interannual Variability on the Onset of Summer Monsoon over the Indonesia-Northern Australia Region**](../scholar-outputs/2023/project9)
 
 - [**Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India**](../scholar-outputs/2023/project3)
 
@@ -47,11 +47,11 @@ width: 100%
 width: 100%
 ---
 ```
-- [**Proposal for heatwave in Asia(India)**](../scholar-outputs/2023/project6)
+- [**Heatwave analysis for Asia (India)**](../scholar-outputs/2023/project6)
 
 - [**Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia**](../scholar-outputs/2023/project12)
 
-- [**Predicting future impacts of ENSO on NDVI in the Greater Horn of Africa**](../scholar-outputs/2023/project8)
+- [**Preliminary observations on the AVHRR-VIIRS v5 daily NDVI data for the assessment of vegetation-climate dynamics in the Jubba-Shabelle watershed of East Africa**](../scholar-outputs/2023/project8)
 
 - [**The Past and Future of Mediterranean Heat Waves**](../scholar-outputs/2023/project10)
 
@@ -66,10 +66,10 @@ width: 100%
 width: 100%
 ---
 ```
-- [**Understanding the interactions of socio-economic policy, land use change, climate and carbon sequestration within the biomes of Mato Grosso: Integrating Land Cover, Precipitation, Temperature, GPP and Economic Factors**](../scholar-outputs/2023/project13)
+- [**Understanding Land Cover Change in a Tropical Region due to Rapid Agricultural Increase: Interactions with Environmental and Socioeconomic Factors**](../scholar-outputs/2023/project13)
 
-- [**Fire Risk Assessment of the Andean-Patagonian Forest**](../scholar-outputs/2023/project5)
+- [**Assessment of fire events in Argentinian Andean-Patagonian Forests between 2002-2020**](../scholar-outputs/2023/project5)
 
-- [**Comparing Sea Level Height Measurements from Tidal Gauges and ECCO Model in Extreme Weather Events**](../scholar-outputs/2023/project2)
+- [**Observing ECCO Model vs Tidal Gauges around Hurricane Maria**](../scholar-outputs/2023/project2)
 
 <center><div onclick="location.href='https://us06web.zoom.us/meeting/register/tZEsd-6tqTMjHdH5g7tzmHpC0cr1N1jDrO2m';" id="clickybox"; style="text-align: center; line-height: 30px; color: white; font-size: 16px; font-weight: bold; width: 300px;"><div style="background-color: #313f76; margin: 30px 10px;">REGISTER FOR SEMINAR 4</div></div></center>
