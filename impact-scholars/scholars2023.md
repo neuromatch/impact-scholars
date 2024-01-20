@@ -27,7 +27,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">4. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project4.html">Influence of ENSO on the coastal upwelling along Northwest Africa</a><br>Sthitapragya Ray, Andrea A. Cabrera, Diana Marcela Guzmán Lugo, Vanni Consumi, Daria Proklova, Elizaveta Baranova-Parfenova
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project4.html">Influence of ENSO on the coastal upwelling along Northwest Africa</a><br>Sthitapragya Ray, Elizaveta Baranova-Parfenova, Andrea A. Cabrera, Diana Marcela Guzmán Lugo, Daria Proklova
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">8. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project8.html">Preliminary observations on the AVHRR-VIIRS v5 daily NDVI data for the assessment of vegetation-climate dynamics in the Jubba-Shabelle watershed of East Africa</a><br>Jesús Pozo, Andrea Miranda, Sergei Nabatov, Alethia Kielbasa, Abdus Samad</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project8.html">Preliminary observations on the AVHRR-VIIRS v5 daily NDVI data for the assessment of vegetation-climate dynamics in the Jubba-Shabelle watershed of East Africa</a><br>Jesús Pozo, Andrea Miranda, Sergei Nabatov, Alethia Kielbasa, Abdus Samad, Benedetta Francesconi</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">9. </td>

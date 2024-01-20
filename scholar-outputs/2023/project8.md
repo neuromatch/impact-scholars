@@ -2,7 +2,7 @@
 
 Team "Saurophaganax_Popping_forte"
 
-**Jesús Pozo**, **Andrea Miranda**, **Sergei Nabatov**, **Alethia Kielbasa**, **Abdus Samad**
+**Jesús Pozo**, **Andrea Miranda**, **Sergei Nabatov**, **Alethia Kielbasa**, **Abdus Samad**, **Benedetta Francesconi**
 
 Mentor: **Surajit Deb Barma**
 
