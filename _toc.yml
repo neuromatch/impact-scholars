@@ -12,7 +12,6 @@ parts:
   - file: impact-scholars/scholars2023
     title: Projects 2023
     sections:
-    - file: scholar-outputs/2023/project1
     - file: scholar-outputs/2023/project2
     - file: scholar-outputs/2023/project3
     - file: scholar-outputs/2023/project4
@@ -21,7 +20,6 @@ parts:
     - file: scholar-outputs/2023/project7
     - file: scholar-outputs/2023/project8
     - file: scholar-outputs/2023/project9
-    - file: scholar-outputs/2023/project10
     - file: scholar-outputs/2023/project11
     - file: scholar-outputs/2023/project12
     - file: scholar-outputs/2023/project13

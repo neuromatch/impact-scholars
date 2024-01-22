@@ -11,7 +11,7 @@ Mentors are **experienced scientists interested in supporting a group throughout
 - **Emma Daniels**
   - [*Influence of ENSO on the coastal upwelling along Northwest Africa*](../scholar-outputs/2023/project4)
 - **Surajit Deb Barma**
-  - [*Impact of Deforestation and Multi-year Cyclical Processes on Precipitation Patterns and Cereal Production in Congo River Basin*](../scholar-outputs/2023/project7)
+  - [*Oceanic oscillations and Congo River Basin climatology*](../scholar-outputs/2023/project7)
   - [*Preliminary observations on the AVHRR-VIIRS v5 daily NDVI data for the assessment of vegetation-climate dynamics in the Jubba-Shabelle watershed of East Africa*](../scholar-outputs/2023/project8)
 - **Brittany Engle**
   - [*Assessment of fire events in Argentinian Andean-Patagonian Forests between 2002-2020*](../scholar-outputs/2023/project5)
@@ -23,10 +23,6 @@ Mentors are **experienced scientists interested in supporting a group throughout
   - [*Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia*](../scholar-outputs/2023/project12)
 - **Oz Kira**
   - [*Understanding Land Cover Change in a Tropical Region due to Rapid Agricultural Increase: Interactions with Environmental and Socioeconomic Factors*](../scholar-outputs/2023/project13)
-- **Kenny T.C. Lim Kam Sian**
-  - [*The Past and Future of Mediterranean Heat Waves*](../scholar-outputs/2023/project10)
-- **Luz de Lourdes Aurora**
-  - [*Analyzing Global Wind Potential for the Next 50 Years and its socio-economic impact*](../scholar-outputs/2023/project1)
 - **Risa Madoff**
   - [*Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India*](../scholar-outputs/2023/project3)
 - **Tejas Dattaram More**

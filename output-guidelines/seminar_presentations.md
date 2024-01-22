@@ -6,7 +6,7 @@ These seminars will be <u>open to the public</u>. Please register for the semina
 
 The <u>last 30 minutes of each event</u> will be dedicated to networking sessions between the presenting scholars and scientists from CMIP and LEAP.
 
-## Seminar 1: 26th March, 10:00-11:30 UTC
+## Seminar 1: 26th March, 10:00-12:00 UTC
 ```{figure} ../impact-scholars/images/seminar_banner_1.png
 ---
 width: 100%
@@ -16,7 +16,7 @@ width: 100%
 
 - [**Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity**](../scholar-outputs/2023/project14)
 
-- [**Impact of Deforestation and Multi-year Cyclical Processes on Precipitation Patterns and Cereal Production in Congo River Basin**](../scholar-outputs/2023/project7)
+- [**Oceanic oscillations and Congo River Basin climatology**](../scholar-outputs/2023/project7)
 
 <center><div onclick="location.href='https://us06web.zoom.us/meeting/register/tZwpduiuqT8oE9JAiO5uqSslAyG-pd4RYXpT';" id="clickybox"; style="text-align: center; line-height: 30px; color: white; font-size: 16px; font-weight: bold; width: 300px;"><div style="background-color: #313f76; margin: 30px 10px;">REGISTER FOR SEMINAR 1</div></div></center>
 
@@ -31,8 +31,6 @@ width: 100%
 - [**Impact of Interannual Variability on the Onset of Summer Monsoon over the Indonesia-Northern Australia Region**](../scholar-outputs/2023/project9)
 
 - [**Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India**](../scholar-outputs/2023/project3)
-
-- [**Analyzing Global Wind Potential for the Next 50 Years and its socio-economic impact**](../scholar-outputs/2023/project1)
 
 - [**Understand underlying mechanisms of ENSO and predicting its impact on the countries surrounding the Niño Region**](../scholar-outputs/2023/project11)
 
@@ -53,14 +51,12 @@ width: 100%
 
 - [**Preliminary observations on the AVHRR-VIIRS v5 daily NDVI data for the assessment of vegetation-climate dynamics in the Jubba-Shabelle watershed of East Africa**](../scholar-outputs/2023/project8)
 
-- [**The Past and Future of Mediterranean Heat Waves**](../scholar-outputs/2023/project10)
-
 <center><div onclick="location.href='https://us06web.zoom.us/meeting/register/tZElcOmsqzwvHtyDOYX6H92WyQkx39g5xQxz';" id="clickybox"; style="text-align: center; line-height: 30px; color: white; font-size: 16px; font-weight: bold; width: 300px;"><div style="background-color: #313f76; margin: 30px 10px;">REGISTER FOR SEMINAR 3</div></div></center>
 
 <hr style="border:2px solid gray">
 
 
-## Seminar 4: 27th March, 21:00-22:30 UTC
+## Seminar 4: 27th March, 21:00-23:00 UTC
 ```{figure} ../impact-scholars/images/seminar_banner_4.png
 ---
 width: 100%
