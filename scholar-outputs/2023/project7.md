@@ -1,4 +1,4 @@
-# Impact of Deforestation and Multi-year Cyclical Processes on Precipitation Patterns and Cereal Production in Congo River Basin
+# Oceanic oscillations and Congo River Basin climatology
 
 Team "Fortepiano, Hesperosaurus_bon"
 
