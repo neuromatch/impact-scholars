@@ -1,6 +1,6 @@
 # Impact Scholar projects 2023
 
-We are thrilled to introduce **12 teams** of **59 Impact Scholars** representing **28 countries** as part of our 2023 cohort! 
+We are thrilled to introduce **12 teams** of **59 Impact Scholars** representing **25 countries** as part of our 2023 cohort! 
 
 Their ambitious projects focus on pressing climate issues on local and global scales, as well as their societal impact. Learn more about their projects below!
 
