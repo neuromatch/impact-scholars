@@ -59,5 +59,3 @@ A representation of the scholar projects' geographical regions of focus. The two
     <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project14.html">Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity</a><br>Agnessa Karapetian, Kamil Vlcek, Carolina Temporão, Hatice Busragokbunar, Sedem Buabassah</td>
 </tr>
 </table>
-
-<sup>*</sup> The identity of a team member has been hidden upon their request.
