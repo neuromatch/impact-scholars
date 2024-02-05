@@ -19,7 +19,6 @@ Mentors are **experienced scientists interested in supporting a group throughout
 - **Fabrizio Falasca**
   - [*Observing ECCO Model vs Tidal Gauges around Hurricane Maria*](../scholar-outputs/2023/project2)
 - **Muhammed Muhshif Karadan**
-  - [*Heatwave analysis for Asia (India)*](../scholar-outputs/2023/project6)
   - [*Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia*](../scholar-outputs/2023/project12)
 - **Oz Kira**
   - [*Understanding Land Cover Change in a Tropical Region due to Rapid Agricultural Increase: Interactions with Environmental and Socioeconomic Factors*](../scholar-outputs/2023/project13)

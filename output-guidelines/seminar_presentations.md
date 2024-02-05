@@ -39,14 +39,12 @@ width: 100%
 <hr style="border:2px solid gray">
 
 
-## Seminar 3: 27th March, 16:00-18:00 UTC
+## Seminar 3: 27th March, 16:00-17:30 UTC
 ```{figure} ../impact-scholars/images/seminar_banner_3.png
 ---
 width: 100%
 ---
 ```
-- [**Heatwave analysis for Asia (India)**](../scholar-outputs/2023/project6)
-
 - [**Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia**](../scholar-outputs/2023/project12)
 
 - [**Preliminary observations on the AVHRR-VIIRS v5 daily NDVI data for the assessment of vegetation-climate dynamics in the Jubba-Shabelle watershed of East Africa**](../scholar-outputs/2023/project8)
