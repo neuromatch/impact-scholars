@@ -15,7 +15,7 @@ parts:
     - file: scholar-outputs/2023/project2
     - file: scholar-outputs/2023/project3
     - file: scholar-outputs/2023/project4
-    - file: scholar-outputs/2023/project6
+    - file: scholar-outputs/2023/project5
     - file: scholar-outputs/2023/project7
     - file: scholar-outputs/2023/project8
     - file: scholar-outputs/2023/project9
