@@ -6,31 +6,26 @@ Mentors are **experienced scientists interested in supporting a group throughout
 ```
 ---
 ## Mentors 2023
-- **Gizachew Agegn**
-  - [*Projected Influences of Interannual Climate Variability on Summer Monsoon Onset and Extreme Weather Events in the Indonesia-North Australia Monsoon Region*](./scholars2023.md#projected-influences-of-interannual-climate-variability-on-summer-monsoon-onset-and-extreme-weather-events-in-the-indonesia-north-australia-monsoon-region)
+- **Gizachew Kassa Agegn**
+  - [*Impact of Interannual Variability on the Onset of Summer Monsoon over the Indonesia-Northern Australia Region*](../scholar-outputs/2023/project9)
 - **Emma Daniels**
-  - [*ENSO's Influence on the Coastal Upwelling along Northwest Africa through the Pacific-North Atlantic Teleconnection*](./scholars2023.md#ensos-influence-on-the-coastal-upwelling-along-northwest-africa-through-the-pacific-north-atlantic-teleconnection)
+  - [*Influence of ENSO on the coastal upwelling along Northwest Africa*](../scholar-outputs/2023/project4)
 - **Surajit Deb Barma**
-  - [*Impact of Deforestation and Multi-year Cyclical Processes on Precipitation Patterns and Cereal Production in Congo River Basin*](./scholars2023.md#impact-of-deforestation-and-multi-year-cyclical-processes-on-precipitation-patterns-and-cereal-production-in-congo-river-basin)
-  - [*Predicting future impacts of ENSO on NDVI in the Greater Horn of Africa*](./scholars2023.md#predicting-future-impacts-of-enso-on-ndvi-in-the-greater-horn-of-africa)
+  - [*Oceanic oscillations and Congo River Basin climatology*](../scholar-outputs/2023/project7)
+  - [*Preliminary observations on the AVHRR-VIIRS v5 daily NDVI data for the assessment of vegetation-climate dynamics in the Jubba-Shabelle watershed of East Africa*](../scholar-outputs/2023/project8)
 - **Brittany Engle**
-  - [*Fire Risk Assessment of the Andean-Patagonian Forest*](./scholars2023.md#fire-risk-assessment-of-the-andean-patagonian-forest)
-  - [*Wildfires in Angola: Burn Areas and Vegetation Index*](./scholars2023.md#wildfires-in-angola-burn-areas-and-vegetation-index)
+  - [*Assessment of fire events in Argentinian Andean-Patagonian Forests between 2002-2020*](../scholar-outputs/2023/project5)
+  - [*Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity*](../scholar-outputs/2023/project14)
 - **Fabrizio Falasca**
-  - [*Comparing Sea Level Height Measurements from Tidal Gauges and ECCO Model in Extreme Weather Events*](./scholars2023.md#comparing-sea-level-height-measurements-from-tidal-gauges-and-ecco-model-in-extreme-weather-events)
+  - [*Observing ECCO Model vs Tidal Gauges around Hurricane Maria*](../scholar-outputs/2023/project2)
 - **Muhammed Muhshif Karadan**
-  - [*Proposal for heatwave in Asia(India)*](./scholars2023.md#proposal-for-heatwave-in-asiaindia)
-  - [*Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia*](./scholars2023.md#understanding-historical-and-future-impacts-of-el-niño-on-climate-and-food-production-in-colombia-and-indonesia)
+  - [*Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia*](../scholar-outputs/2023/project12)
 - **Oz Kira**
-  - [*Understanding the interactions of socio-economic policy, land use change, climate and carbon sequestration within the biomes of Mato Grosso: Integrating Land Cover, Precipitation, Temperature, GPP and Economic Factors*](./scholars2023.md#understanding-the-interactions-of-socio-economic-policy-land-use-change-climate-and-carbon-sequestration-within-the-biomes-of-mato-grosso-integrating-land-cover-precipitation-temperature-gpp-and-economic-factors)
-- **Kenny T.C. Lim Kam Sian**
-  - [*The Past and Future of Mediterranean Heat Waves*](./scholars2023.md#the-past-and-future-of-mediterranean-heat-waves)
-- **Luz de Lourdes Aurora**
-  - [*Analyzing Global Wind Potential for the Next 50 Years and its socio-economic impact*](./scholars2023.md#analyzing-global-wind-potential-for-the-next-50-years-and-its-socio-economic-impact)
+  - [*Understanding Land Cover Change in a Tropical Region due to Rapid Agricultural Increase: Interactions with Environmental and Socioeconomic Factors*](../scholar-outputs/2023/project13)
 - **Risa Madoff**
-  - [*Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India*](./scholars2023.md#assessing-spatio-temporal-precipitation-variability-and-extreme-events-in-india)
+  - [*Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India*](../scholar-outputs/2023/project3)
 - **Tejas Dattaram More**
-  - [*Understand underlying mechanisms of ENSO and predicting its impact on the countries surrounding the Niño Region*](./scholars2023.md#understand-underlying-mechanisms-of-enso-and-predicting-its-impact-on-the-countries-surrounding-the-niño-region)
+  - [*Impacts of ENSO on climate variables in the Pacific region*](../scholar-outputs/2023/project11)
 
 
 ---
