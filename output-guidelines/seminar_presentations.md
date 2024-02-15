@@ -6,15 +6,13 @@ These seminars will be <u>open to the public</u>. Please register for the semina
 
 The <u>last 30 minutes of each event</u> will be dedicated to networking sessions between the presenting scholars and scientists from CMIP and LEAP.
 
-## Seminar 1: 26th March, 10:00-12:00 UTC
+## Seminar 1: 26th March, 10:00-11:30 UTC
 ```{figure} ../impact-scholars/images/seminar_banner_1.png
 ---
 width: 100%
 ---
 ```
 - [**Influence of ENSO on the coastal upwelling along Northwest Africa**](../scholar-outputs/2023/project4)
-
-- [**Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity**](../scholar-outputs/2023/project14)
 
 - [**Oceanic oscillations and Congo River Basin climatology**](../scholar-outputs/2023/project7)
 
@@ -39,7 +37,7 @@ width: 100%
 <hr style="border:2px solid gray">
 
 
-## Seminar 3: 27th March, 16:00-17:30 UTC
+## Seminar 3: 27th March, 16:00-18:00 UTC
 ```{figure} ../impact-scholars/images/seminar_banner_3.png
 ---
 width: 100%
@@ -48,6 +46,8 @@ width: 100%
 - [**Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia**](../scholar-outputs/2023/project12)
 
 - [**Preliminary observations on the AVHRR-VIIRS v5 daily NDVI data for the assessment of vegetation-climate dynamics in the Jubba-Shabelle watershed of East Africa**](../scholar-outputs/2023/project8)
+
+- [**Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity**](../scholar-outputs/2023/project14)
 
 <center><div onclick="location.href='https://us06web.zoom.us/meeting/register/tZElcOmsqzwvHtyDOYX6H92WyQkx39g5xQxz';" id="clickybox"; style="text-align: center; line-height: 30px; color: white; font-size: 16px; font-weight: bold; width: 300px;"><div style="background-color: #313f76; margin: 30px 10px;">REGISTER FOR SEMINAR 3</div></div></center>
 
