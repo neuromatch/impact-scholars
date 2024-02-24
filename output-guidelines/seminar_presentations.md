@@ -12,6 +12,8 @@ The <u>last 30 minutes of each event</u> will be dedicated to networking session
 width: 100%
 ---
 ```
+Chaired by [**Julie Arblaster**](https://wcrp-cmip.org/people/julie-arblaster/)
+
 - [**Influence of ENSO on the coastal upwelling along Northwest Africa**](../scholar-outputs/2023/project4)
 
 - [**Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity**](../scholar-outputs/2023/project14)
@@ -28,6 +30,8 @@ width: 100%
 width: 100%
 ---
 ```
+Chaired by [**Birgit Hassler**](https://wcrp-cmip.org/people/birgit-hassler/) and [**Robert Pincus**](https://wcrp-cmip.org/people/robert-pincus/)
+
 - [**Impact of Interannual Variability on the Onset of Summer Monsoon over the Indonesia-Northern Australia Region**](../scholar-outputs/2023/project9)
 
 - [**Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India**](../scholar-outputs/2023/project3)
@@ -45,6 +49,8 @@ width: 100%
 width: 100%
 ---
 ```
+Chaired by [**Douglas Rao**](https://wcrp-cmip.org/people/douglas-rao/)
+
 - [**Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia**](../scholar-outputs/2023/project12)
 
 - [**Preliminary observations on the AVHRR-VIIRS v5 daily NDVI data for the assessment of vegetation-climate dynamics in the Jubba-Shabelle watershed of East Africa**](../scholar-outputs/2023/project8)
@@ -60,6 +66,8 @@ width: 100%
 width: 100%
 ---
 ```
+Chaired by [**Julius Busecke**](https://jbusecke.github.io/)
+
 - [**Understanding Land Cover Change in a Tropical Region due to Rapid Agricultural Increase: Interactions with Environmental and Socioeconomic Factors**](../scholar-outputs/2023/project13)
 
 - [**Assessment of fire events in Argentinian Andean-Patagonian Forests between 2002-2020**](../scholar-outputs/2023/project5)
