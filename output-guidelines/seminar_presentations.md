@@ -12,7 +12,7 @@ The <u>last 30 minutes of each event</u> will be dedicated to networking session
 width: 100%
 ---
 ```
-Chaired by [**Julie Arblaster**](https://wcrp-cmip.org/people/julie-arblaster/)
+Chaired by [**Julie Arblaster**](https://wcrp-cmip.org/people/julie-arblaster/) and [**Helene Hewitt**](https://www.metoffice.gov.uk/research/people/helene-hewitt)
 
 - [**Influence of ENSO on the coastal upwelling along Northwest Africa**](../scholar-outputs/2023/project4)
 
@@ -49,7 +49,7 @@ Chaired by [**Birgit Hassler**](https://wcrp-cmip.org/people/birgit-hassler/) an
 width: 100%
 ---
 ```
-Chaired by [**Douglas Rao**](https://wcrp-cmip.org/people/douglas-rao/)
+Chaired by [**Douglas Rao**](https://wcrp-cmip.org/people/douglas-rao/) and [**Isla Simpson**](https://staff.cgd.ucar.edu/islas/)
 
 - [**Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia**](../scholar-outputs/2023/project12)
 
