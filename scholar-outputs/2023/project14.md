@@ -4,7 +4,7 @@ Team "Jintasaurus Skip Energico"
 
 **Agnessa Karapetian**, **Kamil Vlcek**, **Carolina Temporão Marques Filipe**, **Hatice Busragokbunar**, **Sedem Buabassah**
 
-Mentor: **Brittany Engle**
+Mentor and reviewer: **Brittany Engle**
 
 ```{figure} project14_summary.PNG
 ---

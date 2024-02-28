@@ -4,7 +4,7 @@ Team "Tyrannosaurus Tango Dolce"
 
 **Franco Barrionuevo**, **Raphael Rocha**, **Cristian Farfan**, **Ricardo Rengifo**, **Luciana Rojas**
 
-Mentor: **Brittany Engle**
+Mentor and reviewer: **Brittany Engle**
 
 ```{figure} team-photos/team_project5.jpg
 ---

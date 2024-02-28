@@ -4,7 +4,7 @@ Team "Fortepiano, Hesperosaurus_bon"
 
 **James Hartzell**, **Magda Altman**, **Rajiv Srivastava**, **Jeffrey N.A. Ayree**, **Pratik Bhandari**, **Lorenzo Pierini**, **Masoumeh Bahri**
 
-Mentor: **Surajit Deb Barma**
+Mentor and reviewer: **Surajit Deb Barma**
 
 ```{figure} project7_summary.png
 ---

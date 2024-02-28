@@ -6,6 +6,8 @@ Team "Rajasaurus Baris"
 
 Mentor: **Fabrizio Falasca**
 
+Reviewer: **Adolfo Lugo**
+
 In the tempest of climate's exchange,<br>
 Hurricane surges pose challenges, strange.<br>
 As the storms dance with glee,<br>

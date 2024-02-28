@@ -4,7 +4,9 @@ Team "Protoceratops_Jitterbug_Vivace"
 
  **Elisa Nóbrega Passos**, **Lakhvinder Kaur**, **Ninibeth Gibelli Sarmiento Herrera**
 
-Mentor: **Muhammed Muhshif Karadan**
+Mentor and reviewer: **Muhammed Muhshif Karadan**
+
+Reviewer: **Lina C. Pérez-Angel**
 
 ```{figure} team-photos/team_project12.jpeg
 ---
