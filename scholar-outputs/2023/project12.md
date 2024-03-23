@@ -1,4 +1,4 @@
-# Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia
+# Understanding the historical and future impacts of ENSO on climate and coffee production in Colombia and Indonesia
 
 Team "Protoceratops_Jitterbug_Vivace"
 
