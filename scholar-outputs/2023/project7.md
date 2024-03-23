@@ -2,7 +2,7 @@
 
 Team "Fortepiano, Hesperosaurus_bon"
 
-**James Hartzell**, **Magda Altman**, **Rajiv Srivastava**, **Jeffrey N.A. Ayree**, **Pratik Bhandari**, **Lorenzo Pierini**, **Masoumeh Bahri**
+**James Hartzell**, **Magda Altman**, **Rajiv Srivastava**, **Jeffrey N.A. Ayree**, **Pratik Bhandari**
 
 Mentor: **Surajit Deb Barma**
 

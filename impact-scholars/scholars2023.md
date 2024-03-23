@@ -1,6 +1,6 @@
 # Impact Scholar projects 2023
 
-We are thrilled to introduce **11 teams** of **56 Impact Scholars** representing **25 countries** as part of our 2023 cohort! 
+We are thrilled to introduce **11 teams** of **54 Impact Scholars** representing **25 countries** as part of our 2023 cohort! 
 
 Their ambitious projects focus on pressing climate issues on local and global scales, as well as their societal impact. Learn more about their projects below!
 
@@ -32,7 +32,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #a2bbd4; margin: 10px 0px;">5. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project7.html">Oceanic oscillations and Congo River Basin climatology</a><br>James Hartzell, Magda Altman, Rajiv Srivastava, Pratik Bhandari, Jeffrey N.A. Ayree, Lorenzo Pierini, Masoumeh Bahri</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project7.html">Oceanic oscillations and Congo River Basin climatology</a><br>James Hartzell, Magda Altman, Rajiv Srivastava, Pratik Bhandari, Jeffrey N.A. Ayree</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">6. </td>
