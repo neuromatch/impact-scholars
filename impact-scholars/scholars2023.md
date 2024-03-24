@@ -28,7 +28,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">4. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project5.html">Assessment of fire events in Argentinian Andean-Patagonian Forests between 2002-2020</a><br>Franco Barrionuevo, Raphael Rocha, Cristian Farfan, Ricardo Rengifo, Luciana Rojas</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project5.html">Assessment of fire events in Argentinian Andean-Patagonian Forests between 2002-2020</a><br>Franco Barrionuevo, Raphael Rocha, Luciana Rojas, Ricardo Rengifo, Cristian Farfan</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #a2bbd4; margin: 10px 0px;">5. </td>
