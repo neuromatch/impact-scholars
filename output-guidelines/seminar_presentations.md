@@ -66,7 +66,7 @@ Chaired by [**Douglas Rao**](https://wcrp-cmip.org/people/douglas-rao/) and [**I
 width: 100%
 ---
 ```
-Chaired by [**Julius Busecke**](https://jbusecke.github.io/) and [**Thea Hatlen**](https://lamont.columbia.edu/directory/thea-hatlen-heimdal)
+Chaired by [**Julius Busecke**](https://jbusecke.github.io/) and [**Thea Hatlen Heimdal**](https://lamont.columbia.edu/directory/thea-hatlen-heimdal)
 
 - [**Understanding Land Cover Change in a Tropical Region due to Rapid Agricultural Increase: Interactions with Environmental and Socioeconomic Factors**](../scholar-outputs/2023/project13)
 
