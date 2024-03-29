@@ -10,8 +10,7 @@ sphinx:
   config:
     language: en
     myst_heading_anchors: 2
-    html_theme_options:
-      announcement: "<font size = '6'>Impact Scholar seminars will take place on 26-27 March 2024<br><a href='https://programs.climatematch.io/output-guidelines/seminar_presentations.html' style='color:#f0ba7d;'>REGISTER TO ATTEND!</a></font>"  
+    html_theme_options:  
       logo:
         text: Climatematch Impact Scholars Program 
     html_sidebars:
