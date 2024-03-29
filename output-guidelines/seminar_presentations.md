@@ -18,7 +18,7 @@ Chaired by [**Julie Arblaster**](https://wcrp-cmip.org/people/julie-arblaster/) 
 
 - [**Oceanic oscillations and Congo River Basin climatology**](../scholar-outputs/2023/project7)
 
-```{figure} ../impact-scholars/images/seminar_1.png
+```{figure} ../impact-scholars/images/seminar-1.png
 ---
 width: 100%
 ---
@@ -39,7 +39,7 @@ Chaired by [**Birgit Hassler**](https://wcrp-cmip.org/people/birgit-hassler/) an
 
 - [**Understand underlying mechanisms of ENSO and predicting its impact on the countries surrounding the Niño Region**](../scholar-outputs/2023/project11)
 
-```{figure} ../impact-scholars/images/seminar_2.png
+```{figure} ../impact-scholars/images/seminar-2.png
 ---
 width: 100%
 ---
@@ -61,7 +61,7 @@ Chaired by [**Douglas Rao**](https://wcrp-cmip.org/people/douglas-rao/) and [**I
 
 - [**Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity**](../scholar-outputs/2023/project14)
 
-```{figure} ../impact-scholars/images/seminar_3.png
+```{figure} ../impact-scholars/images/seminar-3.png
 ---
 width: 100%
 ---
@@ -83,7 +83,7 @@ Chaired by [**Julius Busecke**](https://jbusecke.github.io/) and [**Thea Hatlen 
 
 - [**Observing ECCO Model vs Tidal Gauges around Hurricane Maria**](../scholar-outputs/2023/project2)
 
-```{figure} ../impact-scholars/images/seminar_4.png
+```{figure} ../impact-scholars/images/seminar-4.png
 ---
 width: 100%
 ---
