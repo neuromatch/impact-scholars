@@ -1,10 +1,10 @@
 # Seminar presentations
 
-The first cohort of Climatematch Impact Scholars will share their work in a series of seminars chaired by scientists from our collaborating organizations, [**CMIP**](https://wcrp-cmip.org/) and [**LEAP**](https://leap.columbia.edu/). 
+The first cohort of Climatematch Impact Scholars shared their work in a series of seminars chaired by scientists from our collaborating organizations, [**CMIP**](https://wcrp-cmip.org/) and [**LEAP**](https://leap.columbia.edu/). 
 
-These seminars will be <u>open to the public</u>. Please register for the seminars of interest below!
+These seminars were <u>open to the public</u>.
 
-The <u>last 30 minutes of each event</u> will be dedicated to networking sessions between the presenting scholars and scientists from CMIP and LEAP.
+The <u>last 30 minutes of each event</u> were dedicated to networking sessions between the presenting scholars and scientists from CMIP and LEAP.
 
 ## Seminar 1: 26th March, 10:00-11:30 UTC
 ```{figure} ../impact-scholars/images/seminar_banner_1.png
