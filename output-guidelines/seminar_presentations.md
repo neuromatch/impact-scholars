@@ -18,8 +18,11 @@ Chaired by [**Julie Arblaster**](https://wcrp-cmip.org/people/julie-arblaster/) 
 
 - [**Oceanic oscillations and Congo River Basin climatology**](../scholar-outputs/2023/project7)
 
-<center><div onclick="location.href='https://us06web.zoom.us/meeting/register/tZwpduiuqT8oE9JAiO5uqSslAyG-pd4RYXpT';" id="clickybox"; style="text-align: center; line-height: 30px; color: white; font-size: 16px; font-weight: bold; width: 300px;"><div style="background-color: #313f76; margin: 30px 10px;">REGISTER FOR SEMINAR 1</div></div></center>
-
+```{figure} ../impact-scholars/images/seminar_1.png
+---
+width: 100%
+---
+```
 <hr style="border:2px solid gray">
 
 ## Seminar 2: 26th March, 13:00-15:00 UTC
@@ -36,8 +39,11 @@ Chaired by [**Birgit Hassler**](https://wcrp-cmip.org/people/birgit-hassler/) an
 
 - [**Understand underlying mechanisms of ENSO and predicting its impact on the countries surrounding the Niño Region**](../scholar-outputs/2023/project11)
 
-<center><div onclick="location.href='https://us06web.zoom.us/meeting/register/tZIodu6prTgqHdYfIaXwl56NlGCOzEWZJo-j';" id="clickybox"; style="text-align: center; line-height: 30px; color: white; font-size: 16px; font-weight: bold; width: 300px;"><div style="background-color: #313f76; margin: 30px 10px;">REGISTER FOR SEMINAR 2</div></div></center>
-
+```{figure} ../impact-scholars/images/seminar_2.png
+---
+width: 100%
+---
+```
 <hr style="border:2px solid gray">
 
 
@@ -55,8 +61,11 @@ Chaired by [**Douglas Rao**](https://wcrp-cmip.org/people/douglas-rao/) and [**I
 
 - [**Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity**](../scholar-outputs/2023/project14)
 
-<center><div onclick="location.href='https://us06web.zoom.us/meeting/register/tZElcOmsqzwvHtyDOYX6H92WyQkx39g5xQxz';" id="clickybox"; style="text-align: center; line-height: 30px; color: white; font-size: 16px; font-weight: bold; width: 300px;"><div style="background-color: #313f76; margin: 30px 10px;">REGISTER FOR SEMINAR 3</div></div></center>
-
+```{figure} ../impact-scholars/images/seminar_3.png
+---
+width: 100%
+---
+```
 <hr style="border:2px solid gray">
 
 
@@ -74,4 +83,8 @@ Chaired by [**Julius Busecke**](https://jbusecke.github.io/) and [**Thea Hatlen 
 
 - [**Observing ECCO Model vs Tidal Gauges around Hurricane Maria**](../scholar-outputs/2023/project2)
 
-<center><div onclick="location.href='https://us06web.zoom.us/meeting/register/tZEsd-6tqTMjHdH5g7tzmHpC0cr1N1jDrO2m';" id="clickybox"; style="text-align: center; line-height: 30px; color: white; font-size: 16px; font-weight: bold; width: 300px;"><div style="background-color: #313f76; margin: 30px 10px;">REGISTER FOR SEMINAR 4</div></div></center>
+```{figure} ../impact-scholars/images/seminar_4.png
+---
+width: 100%
+---
+```
