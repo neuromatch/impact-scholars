@@ -60,7 +60,7 @@ We are actively working to provide participants with further professional and ac
 </tr>
 <tr>
     <td><b>7 April 2024</b></td>
-    <td>Revised micropublications submission deadline</td>
+    <td>Revised micropublication submission deadline</td>
 </tr>    
 <tr>
     <td><b>April-May 2024</b></td>
