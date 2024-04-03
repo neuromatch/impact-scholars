@@ -28,7 +28,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">4. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project5.html">Assessment of fire events in Argentinian Andean-Patagonian Forests between 2002-2020</a><br>Franco Barrionuevo, Raphael Rocha, Luciana Rojas, Ricardo Rengifo, Cristian Farfan</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project5.html">Latitudinal assessment of burned area within the Argentinian Andean-Patagonian forest for the 2001-2019 fire seasons.</a><br>Franco Barrionuevo, Raphael Rocha, Luciana Rojas, Ricardo Rengifo, Cristian Farfan</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #a2bbd4; margin: 10px 0px;">5. </td>
@@ -36,7 +36,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">6. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project8.html">Preliminary observations on the AVHRR-VIIRS v5 daily NDVI data for the assessment of vegetation-climate dynamics in the Jubba-Shabelle watershed of East Africa</a><br>Jesús Pozo, Andrea Miranda, Sergei Nabatov, Alethia Kielbasa, Abdus Samad, Benedetta Francesconi</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project8.html">Exploring long-term climatological patterns of cloud coverage and NDVI in East Africa using NOAA’s Surface Reflectance Climate Data Record</a><br>Jesús Pozo, Andrea Miranda, Alethia Kielbasa, Sergei Nabatov, Benedetta Francesconi, Abdus Samad</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">7. </td>
@@ -48,7 +48,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">9. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project12.html">Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia</a><br>Elisa Nóbrega Passos, Lakhvinder Kaur, Ninibeth Gibelli Sarmiento Herrera</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project12.html">Understanding the historical and future impacts of ENSO on climate and coffee production in Colombia and Indonesia</a><br>Elisa Nóbrega Passos, Lakhvinder Kaur, Ninibeth Gibelli Sarmiento Herrera</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: white; font-size: 14px; font-weight: bold; width: 20px; background-color: #596a63; margin: 10px 0px;">10. </td>

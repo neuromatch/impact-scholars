@@ -1,4 +1,4 @@
-# Latitudinal Assessment of Burned Area within the Argentinian Andean-Patagonian Forest for the 2001-2019 Fire Seasons
+# Latitudinal assessment of burned area within the Argentinian Andean-Patagonian forest for the 2001-2019 fire seasons
 
 Team "Tyrannosaurus Tango Dolce"
 
