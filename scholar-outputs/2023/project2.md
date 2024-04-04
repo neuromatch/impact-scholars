@@ -6,6 +6,8 @@ Team "Rajasaurus Baris"
 
 Mentor: **Fabrizio Falasca**
 
+Reviewer: **Adolfo Lugo**
+
 In the tempest of climate's exchange,<br>
 Hurricane surges pose challenges, strange.<br>
 As the storms dance with glee,<br>
@@ -67,4 +69,4 @@ And hurricane's squall,<br>
 Prediction's key for the future's insight.<br>
 
 ---
-The full micropublication will be shared here at the end of March 2024.
+The full micropublication will be shared here in April 2024.

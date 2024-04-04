@@ -4,7 +4,9 @@ Team "Protoceratops_Jitterbug_Vivace"
 
  **Elisa Nóbrega Passos**, **Lakhvinder Kaur**, **Ninibeth Gibelli Sarmiento Herrera**
 
-Mentor: **Muhammed Muhshif Karadan**
+Mentor and reviewer: **Muhammed Muhshif Karadan**
+
+Reviewer: **Lina C. Pérez-Angel**
 
 ```{figure} team-photos/team_project12.jpeg
 ---
@@ -32,4 +34,4 @@ In this agro-poetic refrain, lessons unfurl,<br>
 A dance with nature, a resilient swirl.<br>
 
 ---
-The full micropublication will be shared here at the end of March 2024.
+The full micropublication will be shared here in April 2024.

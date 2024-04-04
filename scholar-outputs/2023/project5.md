@@ -4,7 +4,7 @@ Team "Tyrannosaurus Tango Dolce"
 
 **Franco Barrionuevo**, **Raphael Rocha**, **Cristian Farfan**, **Ricardo Rengifo**, **Luciana Rojas**
 
-Mentor: **Brittany Engle**
+Mentor and reviewer: **Brittany Engle**
 
 ```{figure} team-photos/team_project5.jpg
 ---
@@ -18,4 +18,4 @@ The Argentinian Andean-Patagonian Forest (AAPF) is a highly biodiverse temperate
 </div>
 
 ---
-The full micropublication will be shared here at the end of March 2024.
+The full micropublication will be shared here in April 2024.
