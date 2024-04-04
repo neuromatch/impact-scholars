@@ -13,4 +13,4 @@ Mato Grosso, a vital part of the Amazonian Rainforest, has experienced a conside
 </div>
 
 ---
-The full micropublication will be shared here at the end of March 2024.
+The full micropublication will be shared here in April 2024.

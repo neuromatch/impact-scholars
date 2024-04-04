@@ -11,4 +11,4 @@ The following project is a study on <b>“Assessing Spatio-Temporal Precipitatio
 </div>
 
 ---
-The full micropublication will be shared here at the end of March 2024.
+The full micropublication will be shared here in April 2024.
