@@ -40,7 +40,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">7. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project9.html">Impact of interannual variability on the onset of summer monsoon over the Indonesia-Northern Australia region</a><br>Zhixian Yang, Selyn Rousse Acuña, Tejawini M. Pawase, René Navarro Labastida, Rosmery Lidez Condori, Naomi Nafisa Rahman</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project9.html">Impact of two climate variabilities, ENSO and IOD, on the Onset of Summer Monsoon over the Indonesia-North Australia Region</a><br>Zhixian Yang, Selyn Rousse Acuña, Tejawini M. Pawase, René Navarro Labastida, Rosmery Lidez Condori, Naomi Nafisa Rahman</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">8. </td>
