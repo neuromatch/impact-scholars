@@ -15,11 +15,11 @@ A representation of the scholar projects' geographical regions of focus. The two
 <table style="width:90%">
 <tr>
     <td style="text-align: center; line-height: 20px; color: white; font-size: 14px; font-weight: bold; width: 20px; background-color: #313f76; margin: 10px 0px;">1. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project2.html">Observing ECCO Model vs Tidal Gauges around Hurricane Maria</a><br>Franck Porteous, Hannah Krohn, Faith Hunja</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project2.html">Observing ECCO model vs tidal gauges around Hurricane Maria</a><br>Franck Porteous, Hannah Krohn, Faith Hunja</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #a2bbd4; margin: 10px 0px;">2. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project3.html">Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India</a><br>Stefy Thomas, Khushi Dani, Sattiki Ganguly, Pandurang Choudhari</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project3.html">Assessing spatio-temporal precipitation variability and extreme events in India</a><br>Stefy Thomas, Khushi Dani, Sattiki Ganguly, Pandurang Choudhari</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">3. </td>
@@ -40,7 +40,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">7. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project9.html">Impact of Interannual Variability on the Onset of Summer Monsoon over the Indonesia-Northern Australia Region</a><br>Zhixian Yang, Selyn Rousse Acuña, Tejawini M. Pawase, René Navarro Labastida, Rosmery Lidez Condori, Naomi Nafisa Rahman</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project9.html">Impact of interannual variability on the onset of summer monsoon over the Indonesia-Northern Australia region</a><br>Zhixian Yang, Selyn Rousse Acuña, Tejawini M. Pawase, René Navarro Labastida, Rosmery Lidez Condori, Naomi Nafisa Rahman</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #67ada9; margin: 10px 0px;">8. </td>
@@ -52,10 +52,10 @@ A representation of the scholar projects' geographical regions of focus. The two
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: white; font-size: 14px; font-weight: bold; width: 20px; background-color: #596a63; margin: 10px 0px;">10. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project13.html">Understanding Land Cover Change in a Tropical Region due to Rapid Agricultural Increase: Interactions with Environmental and Socioeconomic Factors</a><br>Sofia Corradi Oliveira, Andrés Fernando Figueroa Curo, Magnolia Song,  Manojna Polisetty, Daniela Velásquez, Maryann Alessandra Alata Chambilla</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project13.html">Exploring land cover change interactions with environmental and socioeconomic factors in a tropical region due to rapid agricultural increase</a><br>Sofia Corradi Oliveira, Andrés Fernando Figueroa Curo, Magnolia Song,  Manojna Polisetty, Daniela Velásquez, Maryann Alessandra Alata Chambilla</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #e18256; margin: 10px 0px;">11. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project14.html">Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity</a><br>Agnessa Karapetian, Kamil Vlcek, Carolina Temporão, Hatice Busragokbunar, Sedem Buabassah</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project14.html">Largest wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity</a><br>Agnessa Karapetian, Kamil Vlcek, Carolina Temporão, Hatice Busragokbunar, Sedem Buabassah</td>
 </tr>
 </table>
