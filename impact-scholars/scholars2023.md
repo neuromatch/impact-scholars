@@ -15,7 +15,7 @@ A representation of the scholar projects' geographical regions of focus. The two
 <table style="width:90%">
 <tr>
     <td style="text-align: center; line-height: 20px; color: white; font-size: 14px; font-weight: bold; width: 20px; background-color: #313f76; margin: 10px 0px;">1. </td>
-    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project2.html">Observing ECCO model vs tidal gauges around Hurricane Maria</a><br>Franck Porteous, Hannah Krohn, Faith Hunja</td>
+    <td style="text-align: left; line-height: 20px; color: black; font-size: 14px; margin: 10px 0px;"><a href = "https://programs.climatematch.io/scholar-outputs/2023/project2.html">Observing ECCO model vs tide gauges affected by Hurricane Maria</a><br>Franck Porteous, Hannah Krohn, Faith Hunja</td>
 </tr>
 <tr>
     <td style="text-align: center; line-height: 20px; color: black; font-size: 14px; font-weight: bold; width: 20px; background-color: #a2bbd4; margin: 10px 0px;">2. </td>

@@ -1,4 +1,4 @@
-# Observing ECCO Model vs Tidal Gauges around Hurricane Maria
+# Observing ECCO model vs tide gauges affected by Hurricane Maria
 
 Team "Rajasaurus Baris"
 
@@ -67,4 +67,4 @@ And hurricane's squall,<br>
 Prediction's key for the future's insight.<br>
 
 ---
-The full micropublication will be shared here at the end of March 2024.
+The full micropublication will be shared here in April/May 2024.
