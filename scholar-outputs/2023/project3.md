@@ -4,6 +4,8 @@ Team "Monsoon Blues"
 
 **Stefy Thomas**, **Khushi Dani**, **Sattiki Ganguly**, **Pandurang Choudhari**
 
+With contributions from **Sintayehu Fetene Demessie**
+
 Mentor: **Risa Madoff**
 
 <div style="text-align: justify">
