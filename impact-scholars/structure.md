@@ -59,7 +59,11 @@ We are actively working to provide participants with further professional and ac
     <td>Seminar presentations</td>
 </tr>
 <tr>
-    <td><b>March-April 2024</b></td>
+    <td><b>7 April 2024</b></td>
+    <td>Revised micropublication submission deadline</td>
+</tr>    
+<tr>
+    <td><b>April-May 2024</b></td>
     <td>Micropublication release</td>
 </tr>
 </table>
