@@ -30,23 +30,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.9
-
-      # - name: Install CI tools
-      #   run: |
-      #     BRANCH=`python -c 'import os, re; m = re.search(r"nmaci:([\w-]+)", os.environ["COMMIT_MESSAGE"]); print("main" if m is None else m.group(1))'`
-      #     wget https://github.com/neuromatch/nmaci/archive/refs/heads/$BRANCH.tar.gz
-      #     tar -xzf $BRANCH.tar.gz
-      #     pip install --upgrade pip
-      #     pip install -r nmaci-$BRANCH/requirements.txt
-      #     mv nmaci-$BRANCH/scripts/ ci/
-      #     rm -r nmaci-$BRANCH
-      #     rm -r $BRANCH.tar.gz
-      #     echo ci/ >> .gitignore
-      # - name: Install dependencies
-      #   run: |
-      #     pip install -r requirements.txt
-      #     pip install jupyter-book==0.14.0 ghp-import
-      #     pip install jupyter_client==7.3.5  # downgrade jupyter-client to fix hangs
+          
       - name: Install XKCD fonts
         if: "!contains(env.COMMIT_MESSAGE, 'skip ci')"
         run: |
@@ -58,14 +42,7 @@ jobs:
       - name: Build the book
         run: |
           pip install jupyter-book ghp-import
-          # python ci/generate_book_dl.py student
-          # jupyter-book toc migrate /home/runner/work/course-content-dl/course-content-dl/book/_toc.yml -o /home/runner/work/course-content-dl/course-content-dl/book/_toc.yml
-          # ln -s ../tutorials book/tutorials
-          # ln -s ../projects book/projects
-          # ln -s ../prereqs book/prereqs
-          # jupyter-book build book
           jupyter-book build .
-          # python ci/parse_html_for_errors.py student
       - name: Commit book
         run: |
           git config --local user.email "action@github.com"
