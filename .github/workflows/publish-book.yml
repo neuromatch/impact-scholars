@@ -57,7 +57,7 @@ jobs:
           rm -f $HOME/.matplotlib/fontList.cache
       - name: Build the book
         run: |
-          pip install jupyter-book
+          pip install jupyter-book ghp-import
           # python ci/generate_book_dl.py student
           # jupyter-book toc migrate /home/runner/work/course-content-dl/course-content-dl/book/_toc.yml -o /home/runner/work/course-content-dl/course-content-dl/book/_toc.yml
           # ln -s ../tutorials book/tutorials
