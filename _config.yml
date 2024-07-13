@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Climatematch Impact Scholars Program
-author: Climatematch
-logo: impact-scholars/images/cma_logo.png
+title: Neuromatch Impact Scholars Program
+author: Neuromatch
+logo: impact-scholars/images/NMA_logo.png
 only_build_toc_files: true
 
 sphinx:
@@ -35,7 +35,7 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  favicon                   : impact-scholars/images/cma_logo.png  # A path to a favicon image
+  favicon                   : impact-scholars/images/NMA_logo.png  # A path to a favicon image
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : true  # Whether to add a link to your repository button
   use_issues_button         : false # Whether to add an "open an issue" button
