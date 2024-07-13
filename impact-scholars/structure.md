@@ -1,6 +1,6 @@
 # Program structure
 
-The Climatematch Impact Scholars program runs between **October 2023** and **January 2024**.
+The Neuromatch Impact Scholars program runs between **October 2024** and **March 2025**.
 
 ## **What is involved**
 - 💻**Computing resources**. Thanks to our partnership with [2i2c](https://2i2c.org/), selected groups will be provided with continued access to the Climatematch JupyterHub until the end of the program with a possibility of further extension if the scholars and their mentor are interested in working towards a peer-reviewed publication. 
@@ -19,51 +19,51 @@ We are actively working to provide participants with further professional and ac
 ## **Program tentative timeline**
 <table style="width:90%">
 <tr>
-    <td><b>2 August 2023</b></td>
+    <td><b>15 August 2024</b></td>
     <td>Applications open</td>
 </tr>
 <tr>
-    <td><b>8 September 2023</b></td>
+    <td><b>16 September 2024</b></td>
     <td>Application deadline</td>
 </tr>
 <tr>
-    <td><b>3 October 2023</b></td>
+    <td><b>30 September 2024</b></td>
     <td>Application decisions</td>
 </tr>
 <tr>
-    <td><b>9 October 2023</b></td>
+    <td><b>6 October 2024</b></td>
     <td>Impact Scholars Entrance Survey deadline</td>
 </tr>
 <tr>
-    <td><b>16-17 October 2023</b></td>
+    <td><b>12-13 October 2024</b></td>
     <td>Welcome Event for scholars and mentors</td>
 </tr>
 <tr>
-    <td><b>October - December 2023</b></td>
+    <td><b>October 2024 - January 2025</b></td>
     <td>Regular check-ins on Discord and mentor meetings</td>
 </tr>
 <tr>
-    <td><b>18-20 December 2024</b></td>
+    <td><b>18-19 January 2024</b></td>
     <td>Workshop on micropublications</td>
 </tr>
 <tr>
-    <td><b>12 January 2024</b></td>
+    <td><b>3 March 2025</b></td>
     <td>Micropublication submission deadline</td>
 </tr>
 <tr>
-    <td><b>February 2024</b></td>
+    <td><b>March 2025</b></td>
     <td>Feedback on micropublications</td>
 </tr>
 <tr>
-    <td><b>26-27 March 2024</b></td>
+    <td><b>24-30 March 2025</b></td>
     <td>Seminar presentations</td>
 </tr>
 <tr>
-    <td><b>7 April 2024</b></td>
+    <td><b>7 April 2025</b></td>
     <td>Revised micropublication submission deadline</td>
 </tr>    
 <tr>
-    <td><b>April-May 2024</b></td>
+    <td><b>April-May 2025</b></td>
     <td>Micropublication release</td>
 </tr>
 </table>
