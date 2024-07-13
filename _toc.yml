@@ -9,6 +9,10 @@ parts:
   - file: impact-scholars/structure
   - file: impact-scholars/application
     title: Application
+  - file: impact-scholars/program_benefit_learning_outcome
+    title: Program benefit and learning outcome
+  - file: impact-scholars/Scholars-role_responsibilities
+    title: Scholars role and responsibilities
   - file: impact-scholars/scholars2023
     title: Projects 2023
     sections:
