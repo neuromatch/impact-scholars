@@ -1,6 +1,6 @@
 # Program structure
 
-The Neuromatch Impact Scholars program runs between **October 2024** and **March 2025**.
+The Impact Scholars program runs between **October 2024** and **March 2025**.
 
 ## **What is involved**
 - 💻**Computing resources**. Selected groups will be provided with computing resources until the end of the program with a possibility of further extension if the scholars and their mentor are interested in working towards a peer-reviewed publication. 
@@ -11,9 +11,10 @@ The Neuromatch Impact Scholars program runs between **October 2024** and **March
 
 - 🦉 **Mentorship**. We endeavour to match every team to a suitable mentor who connects with the scholars synchronously and asynchronously at least twice a month and provides guidance, support, and feedback on their research outputs. 
 
-- 🧑‍🤝‍🧑**Community support**. There will be regular check-ins from the program organisers on the #NMA-isp-community forum channel on the Neuromatch's Discord Community Server for participants to share both successes and struggles.
+- 🧑‍🤝‍🧑**Community support**. There will be regular check-ins from the program organisers on the ***#cisp-community*** forum channel on the Climatematch’s Discord Community Server and on the
+***#NMA-isp-community*** forum channel on the Neuromatch's Discord Community Server for participants to share both successes and struggles.
 
-We are actively working to provide participants with further professional and academic opportunities and additionally encourage them to take part in Neuromatch seminars, journal club meetings, and professional development survey series. These are not strictly part of the program, but are aligned with the scholars' project topics and career aspirations.
+We are actively working to provide participants with further professional and academic opportunities and additionally encourage them to take part in the Academies seminars, journal club meetings, and professional development survey series. These are not strictly part of the program, but are aligned with the scholars' project topics and career aspirations.
 
 ---
 ## **Program tentative timeline**
@@ -59,7 +60,7 @@ We are actively working to provide participants with further professional and ac
     <td>Seminar presentations</td>
 </tr>
 <tr>
-    <td><b>7 April 2025</b></td>
+    <td><b>14 April 2025</b></td>
     <td>Revised micropublication submission deadline</td>
 </tr>    
 <tr>

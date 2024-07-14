@@ -47,7 +47,7 @@ Attend a welcome meeting in mid-October 2024 and an end-of-program celebration m
 ---
 ## Eligibility criteria
 
-1. **Educational and Professional Background:** Hold a PhD in a relevant field such as Neuroscience, Deep Learning, or NeuroAI, or possess equivalent experience gained through industry or other professional settings that demonstrate expertise in these areas.
+1. **Educational and Professional Background:** Hold a PhD in a relevant field such as Neuroscience, Deep Learning, NeuroAI, or cliamte science, or possess equivalent experience gained through industry or other professional settings that demonstrate expertise in these areas.
 2. **Project Fit:** Proficient in Python with experience conducting research related to the datasets or scientific questions of the scholars' group. A project gallery will be shared here soon.
 3. **Mentoring / Teaching Experience:** Experience in mentoring or supervising junior researchers.
 4. **Communication Skills:** Strong communication and interpersonal skills to effectively mentor and collaborate with scholars.
@@ -79,4 +79,5 @@ Mentors will receive support from staff, including resources for task tracking, 
 If mentors need to reschedule a meeting due to holidays or other commitments, they should communicate with scholars to find a suitable alternative time. Flexibility is key in ensuring effective mentorship.
 
 > *Will I receive compensation for my role as a mentor?*
+
 Yes, mentors will be paid $30 per hour and are required to work 10 hours a month.

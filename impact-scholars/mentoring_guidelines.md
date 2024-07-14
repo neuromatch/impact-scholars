@@ -4,7 +4,7 @@ Mentoring is about helping each other expand and grow. It is a process in which 
 
 ## Mentorship during the program
 
-The Climatematch Impact Scholars Program aspires to the [mentorship standards set by Harvard University][harvard] in which mentors and mentees both establish their goals and expectations and actively collaborate to maintain a mutually beneficial mentoring relationship.
+The Impact Scholars Program aspires to the [mentorship standards set by Harvard University][harvard] in which mentors and mentees both establish their goals and expectations and actively collaborate to maintain a mutually beneficial mentoring relationship.
 
 ### Mentor matching (early October)
 
@@ -12,46 +12,46 @@ Mentors are matched to project groups based on subject expertise, preference, an
 
 It is expected that mentors and mentees are committed to investing <u>a minimum of 1-2 hours per month</u> to establish and sustain a successful mentoring relationship throughout the program.
 
-Mentors are additionally expected to sign the [Climatematch Volunteer Agreement](https://airtable.com/app32npl2ZlbJvtXK/shrrFrKgFi8VNDiAu).
+Mentors are additionally expected to sign the [Volunteer Agreement](https://airtable.com/app32npl2ZlbJvtXK/shrrFrKgFi8VNDiAu).
 
 ### First interactions (October)
 
-Mentorship can take place through synchronous meetings on a video conferencing platform and/or asynchronously via email or another, mutually agreed upon communication platform.
+Mentorship can take place through synchronous meetings on a video conferencing platform and asynchronously via email or another, mutually agreed upon communication platform.
 
 We suggest that the first mentor-mentee interactions:
 - <u>discuss background, experiences, and interests of everyone involved</u>. This will give the mentees an opportunity to practice their networking skills and allow the mentor to tailor their mentoring approach to the mentees' needs.
 
 - <u>set clear expecations</u>. What do you wish to gain from the mentoring relationship? How often will you communicate? What communication channels will you use? When suggesting communication platforms, be mindful of potential accessibility restrictions elsewhere in the world.
 
-- <u>discuss the project proposal</u>. The proposal outlining the mentees' current results and the work proposed during the program is attached to the introductory email sent by the organizers. Bear in mind that scholars are working on their project part-time and are required to submit a [micropublication](../output-guidelines/micropublications.md) by **12th January 2024**. 
+- <u>discuss the project proposal</u>. The proposal outlining the mentees' current results and the work proposed during the program is attached to the introductory email sent by the organizers. Bear in mind that scholars are working on their project part-time and are required to submit a [micropublication](../output-guidelines/micropublications.md) by **13rd March 2025**. 
 
 - <u>work together to set specific, achievable goals for the next month</u>. These will help the mentees allocate responsibilities among themselves and will assist the mentor in their next interaction with the scholars. 
 
-### Progress updates (November, December)
+### Progress updates (October to March)
  Subsequent mentoring interactions should be geared towards helping the scholars make progress on their project in line with the previously set expectations. 
 
 This should involve, but need not be limited to, <u>guidance on analysis approaches, result interpretation and visualization, and the planning of next steps</u>. We suggest that the previously defined monthly goals are revisited and that new goals are set for the next period after progress evaluation. It is important to give the mentees an opportunity to share their successes and struggles alike. As part of this process, mentors are welcome to share learning and development resources to help their mentees achieve their collective and individual professional goals. 
 
 Planning these interactions will keep the mentoring partnership on track and focused on significant objectives. 
 
-In addition, we encourage mentors and mentees to regularly <u>assess the effectiveness of their collaboration</u> and to respectfully work to improve it. If either of the involved parties do not feel content with the partnership and is struggling to resolve the problems internally, please do not hesitate to reach out to the program organizers via email mentors@climatematch.io. 
+In addition, we encourage mentors and mentees to regularly <u>assess the effectiveness of their collaboration</u> and to respectfully work to improve it. If either of the involved parties do not feel content with the partnership and is struggling to resolve the problems internally, please do not hesitate to reach out to the program organizers via email impactscholars@neuromatch.io. 
 
-### End of program support (December, early January)
+### End of program support (March)
 Mentor-mentee interactions should be organized with the program end date in mind such that the mentorship focus gradually shifts from data analyses and interpretation to result presentation.
 
 It is also important to understand that the end of the program and formal mentorship need not mean the end of the professional relationship between the mentor and the scholars. Your final interactions during the program are an excellent opportunity to share your overall experience with the program, celebrate achievements, and, if there is mutual interest, discuss ways for the partnership to continue beyond the program. For example, if the mentor and the scholars are keen to continue their collaboration and develop the project into a journal publication or a conference presentation, we will try our best to facilitate the process and extend scholar access to computing resources.   
 
 ### Micropublication review (12th January - 12th February 2024)   
-After scholars submit the final draft of their [micropublication](../output-guidelines/micropublications.md) (deadline: 12th January), the program organizers will forward it to the mentors who will have until **12th February** to provide written feedback on the piece.
+After scholars submit the final draft of their [micropublication](../output-guidelines/micropublications.md) (deadline: 3rd March 2025), the program organizers will forward it to the mentors who will have until **30th March 2025** to provide written feedback on the piece.
 
 Considering that mentors will have guided the scholars through their analyses and result interpretation, it is expected that this feedback will focus primarily on the scholars' clarity of expression and result presentation without requesting additional analyses. Detailed review guidelines will be provided in due course!
 
-Scholars will then have time until the end of February to address the received feedback and submit a revised version for publication on the program website.
+Scholars will then have time until mid-April to address the received feedback and submit a revised version for publication on the program website.
 
 ---
 ## Ethics of mentoring
 
-Mentors and mentees should be aware of the [Climatematch Code of Conduct][coc]. Mentors must continually examine and reflect on their ethical values ​​and how they can influence decisions in their mentoring practice. Mentors must take responsibility for the power they hold and never use it abusively over more vulnerable others. In Climatematch, we are committed to having an open and transparent reporting structure for any abuse of power. Please report any anomaly at mentors@climatematch.io and report any violations of the Code of Conduct through this [reporting form](https://airtable.com/app3DAkSp0lV5kU38/shrezDSthWPlJ4Rpy). 
+Mentors and mentees should be aware of the [Academies Code of Conduct][coc]. Mentors must continually examine and reflect on their ethical values ​​and how they can influence decisions in their mentoring practice. Mentors must take responsibility for the power they hold and never use it abusively over more vulnerable others. We are committed to having an open and transparent reporting structure for any abuse of power. Please report any anomaly at impactscholars@neuromatch.io and report any violations of the Code of Conduct through this [reporting form](https://airtable.com/app3DAkSp0lV5kU38/shrezDSthWPlJ4Rpy). 
 
 ---
 ## Mentoring best practices
@@ -98,7 +98,7 @@ We ask that mentors strive to follow the best mentorship practices and actively 
 
 ```{note}
 
- Immediately communicate any violation of our Code of Conduct to the program organizers via mentors@climatematch.io and let them handle the termination of the mentorship arrangement if necessary.
+ Immediately communicate any violation of our Code of Conduct to the program organizers via impactscholars@neuromatch.io and let them handle the termination of the mentorship arrangement if necessary.
 
 ```
 
@@ -126,7 +126,7 @@ Mentorship is a two-way relationship, so we ask all scholars to actively practic
 
 ```{note}
 
- Immediately communicate any violation of our Code of Conduct to cisp organizers via mentors@climatematch.io and let them handle the termination of the mentorship arrangement if necessary.
+ Immediately communicate any violation of our Code of Conduct to the program organizers via impactscholars@neuromatch.io and let them handle the termination of the mentorship arrangement if necessary.
 
 ```
 

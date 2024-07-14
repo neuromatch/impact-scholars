@@ -3,7 +3,7 @@
 ## What scholars can expect:
 
 1. **Commitment:**
-   - *Duration:* The program lasts for 6 months, allowing ample time to delve deeper into your research.
+   - *Duration:* The program lasts for ***6 months***, allowing ample time to delve deeper into your research.
    - *Time Investment:* The program is designed to be part-time, requiring approximately 3 hours a week. Regular participation and consistent progress are expected to ensure meaningful contributions to your project group.
 
 2. **Collaboration:**
