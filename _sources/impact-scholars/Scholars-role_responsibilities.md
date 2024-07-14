@@ -4,9 +4,9 @@ As a scholar in the Impact Scholars Program, you play a crucial role in the succ
 
 Here are your key responsibilities:
 1. **Active Participation:**
-Actively participate in group meetings, discussions, and project-related activities.
-Contribute ideas and insights to advance the project in collaboration with your team members.
-
+- Actively participate in group meetings, discussions, and project-related activities.
+- Contribute ideas and insights to advance the project in collaboration with your team members.
+<br>
 2. **Timely Completion of Tasks:**
 - Complete your assigned tasks in a timely manner to ensure the progress of the project. Collaborate with your team to meet project milestones and deadlines.
 - Mentors will help break down the project into manageable tasks and ensure each student has a clear responsibility. This is done collaboratively, considering each scholar’s strengths and interests. A shared document will be provided for tracking tasks, ensuring transparency and accountability.
