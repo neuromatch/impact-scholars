@@ -6,5 +6,6 @@ This **six-month program** fosters a long-term commitment to research, by provid
 By participating in the program, scholars will gain deeper insights into a specific sub-domain of their chosen field and develop critical research skills.
 
 To learn more about the program, please see the content under Program Overview.
+
 ```{tableofcontents}
 ```

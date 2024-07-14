@@ -35,15 +35,15 @@ We are actively working to provide participants with further professional and ac
     <td>Impact Scholars Entrance Survey deadline</td>
 </tr>
 <tr>
-    <td><b>12-13 October 2024</b></td>
-    <td>Welcome Event for scholars and mentors</td>
+    <td><b>12 - 13 October 2024</b></td>
+    <td>Welcome event for scholars and mentors</td>
 </tr>
 <tr>
     <td><b>October 2024 - January 2025</b></td>
     <td>Regular check-ins on Discord and mentor meetings</td>
 </tr>
 <tr>
-    <td><b>18-19 January 2024</b></td>
+    <td><b>18 - 19 January 2024</b></td>
     <td>Workshop on micropublications</td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ We are actively working to provide participants with further professional and ac
     <td>Feedback on micropublications</td>
 </tr>
 <tr>
-    <td><b>24-30 March 2025</b></td>
+    <td><b>24 - 30 March 2025</b></td>
     <td>Seminar presentations</td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ We are actively working to provide participants with further professional and ac
     <td>Revised micropublication submission deadline</td>
 </tr>    
 <tr>
-    <td><b>April-May 2025</b></td>
+    <td><b>April - May 2025</b></td>
     <td>Micropublication release</td>
 </tr>
 </table>
