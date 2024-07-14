@@ -10,9 +10,9 @@ parts:
   - file: impact-scholars/application
     title: Application
   - file: impact-scholars/program_benefit_learning_outcome
-    title: Program benefit and learning outcome
+    title: Program Benefit and Learning Outcome
   - file: impact-scholars/Scholars-role_responsibilities
-    title: Scholars role and responsibilities
+    title: Scholars Role and Responsibilities
   - file: impact-scholars/mentors
     title: Mentors
     sections:
@@ -20,9 +20,8 @@ parts:
 - caption: Research Outputs
   chapters:
   - file: output-guidelines/micropublications
-  - file: output-guidelines/seminar_presentations
-    sections:
-    - file: output-guidelines/seminar_guidelines
+  - file: output-guidelines/seminar_guidelines
+    title: Seminar Presentation Guidelines
 - caption: Climatematch Impact Scholars Program 2023
   chapters:
   - file: impact-scholars/scholars2023
@@ -38,4 +37,6 @@ parts:
     - file: scholar-outputs/2023/project11
     - file: scholar-outputs/2023/project12
     - file: scholar-outputs/2023/project13
-    - file: scholar-outputs/2023/project14  
+    - file: scholar-outputs/2023/project14
+  - file: impact-scholars/seminar_presentations  
+    title: Climatematch Seminar Presentaions 2023
