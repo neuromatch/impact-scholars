@@ -1,54 +1,82 @@
 # Mentors
-Mentors are **experienced scientists interested in supporting a group throughout the development of their research project** between October 2023 and January 2024.
 
-```{important}
-  Applications for the 2023 program have closed!
-```
----
-## Mentors 2023
-- **Gizachew Kassa Agegn**
-  - [*Impact of Interannual Variability on the Onset of Summer Monsoon over the Indonesia-Northern Australia Region*](../scholar-outputs/2023/project9)
-- **Emma Daniels**
-  - [*Influence of ENSO on the coastal upwelling along Northwest Africa*](../scholar-outputs/2023/project4)
-- **Surajit Deb Barma**
-  - [*Oceanic oscillations and Congo River Basin climatology*](../scholar-outputs/2023/project7)
-  - [*Preliminary observations on the AVHRR-VIIRS v5 daily NDVI data for the assessment of vegetation-climate dynamics in the Jubba-Shabelle watershed of East Africa*](../scholar-outputs/2023/project8)
-- **Brittany Engle**
-  - [*Assessment of fire events in Argentinian Andean-Patagonian Forests between 2002-2020*](../scholar-outputs/2023/project5)
-  - [*Wildfires in Angola: Correlation of vegetation and meteorological variables with wildfire intensity*](../scholar-outputs/2023/project14)
-- **Fabrizio Falasca**
-  - [*Observing ECCO Model vs Tidal Gauges around Hurricane Maria*](../scholar-outputs/2023/project2)
-- **Muhammed Muhshif Karadan**
-  - [*Understanding historical and future impacts of El Niño on climate and food production in Colombia and Indonesia*](../scholar-outputs/2023/project12)
-- **Oz Kira**
-  - [*Understanding Land Cover Change in a Tropical Region due to Rapid Agricultural Increase: Interactions with Environmental and Socioeconomic Factors*](../scholar-outputs/2023/project13)
-- **Risa Madoff**
-  - [*Assessing Spatio-Temporal Precipitation Variability and Extreme Events in India*](../scholar-outputs/2023/project3)
-- **Tejas Dattaram More**
-  - [*Impacts of ENSO on climate variables in the Pacific region*](../scholar-outputs/2023/project11)
+Mentors are **experienced scientists who are interested in supporting a group throughout the development of their research project** between October 2024 and March 2025 nd will be compensated for their time and effort.
 
-
----
 ## Why be a mentor? 
-Climate models struggle to predict the impact of climate change on a local scale. In collaboration with our program, mentors will support early career scientists as they help identify cutting edge climate-change related questions with benefits to local ecosystems and communities. 
 
 Mentors will also become official collaborators on the project which will conclude with submission of a micropublication and a seminar presentation by the project teams. If there is mutual interest in continuing the collaboration on the project beyond the end of the program, we will do our best to support work towards a publication in a scientific journal by facilitating continued, uninterrupted provision of the computing resources to the scholars.
 
 ---
-## What do mentors do? 
-Mentors support scholars to continue a research project they have started during the Climatematch Academy. In particular, mentors will:
-- Connect with their group at least once per month for 1-2 hours either synchronously (zoom meeting) or asynchronously (email or Discord). We estimate the total minimum time commitment to be 6-8 hours.
-- Provide constructive feedback on outputs (project proposal, presentation slides, micropublication drafts) 
-- Attend a welcome meeting (mid-October 2023) and an end of program celebration meeting (January 2024) with all scholars and mentors. Both via Zoom. 
+## Mentor Compensation and Responsibilities 
 
-We encourage mentors to interact with their group beyond the minimum of 6-8 hours required by the program if this aligns with the goals of the mentor and group. Besides more in-depth project discussions, additional mentor-scholar interactions could surround topics including the mentor’s work or general career advice.  
+Mentors will be paid $30 per hour and are required to work 10 hours a month. Their tasks are detailed as follows:
+
+***Availability***
+
+Be available for the duration of the program, which lasts from October 2024 to March 2025, to provide consistent support and mentorship to scholars.
+
+***Bi-monthly Meetings with Scholars (3 hours/month)***
+
+- Meet with scholars twice a month for approximately one hour each session.
+- Provide guidance, review progress, and help troubleshoot any issues.
+- Flexibility to cancel and reschedule meetings if holidays or other commitments prevent many scholars from attending.
+- Foster a collaborative and inclusive environment where all students feel empowered to contribute and express their ideas.
+- Encourage teamwork and open communication for the success of the project.
+
+***Monthly Staff Update Meeting (0.5 hour/month)***
+
+- Meet with program staff or update via email once a month.
+- Provide updates on the project group's progress, discuss challenges, and plan next steps.
+
+***Task Planning and Coordination (3 hours/month)***
+
+- Plan and coordinate project tasks, ensuring they are broken down into manageable components with clear responsibilities for each scholar.
+- Review and provide feedback on scholars' work to keep them on track with deadlines.
+- Use a shared document provided by staff for tracking tasks, ensuring transparency and accountability.
+- Collaboratively allocate tasks based on scholars’ strengths and interests, and provide clear guidance for scholars in different time zones who cannot participate in meetings.
+
+***Monitoring Communication Channels (3 hours/month)***
+
+- Monitor Discord or other communication channels to provide additional support and answer questions as needed.
+- Be available for ad-hoc queries and offer guidance to ensure scholars are progressing smoothly.  
+
+***Welcome and End of Program Meetings***
+
+Attend a welcome meeting in mid-October 2024 and an end-of-program celebration meeting in March 2025 via Zoom with all scholars and mentors.
 
 ---
-## Who can be a mentor? 
-To advise a group of Impact Scholars, mentors should: 
-- have **experience** conducting research on a topic related to the region, dataset, or scientific question of their group
-- have a **keen interest** in encouraging up-and-coming scientists and international collaborations
+## Eligibility criteria
 
-Knowledge of Python and experience supervising junior researchers are a plus, but not required. 
+1. **Educational and Professional Background:** Hold a PhD in a relevant field such as Neuroscience, Deep Learning, or NeuroAI, or possess equivalent experience gained through industry or other professional settings that demonstrate expertise in these areas.
+2. **Project Fit:** Proficient in Python with experience conducting research related to the datasets or scientific questions of the scholars' group. A project gallery will be shared here soon.
+3. **Mentoring / Teaching Experience:** Experience in mentoring or supervising junior researchers.
+4. **Communication Skills:** Strong communication and interpersonal skills to effectively mentor and collaborate with scholars.
+5. **Commitment:** Availability for the program duration (October 2024 to March 2025) and commitment to regular meetings and communication with scholars and staff.
 
-If you have any questions regarding the mentor role please feel free to contact mentors@climatematch.io.
+If you have any questions regarding the mentor role please feel free to contact  impactscholars@neuromatch.io.
+
+
+---
+## **Frequently asked questions**
+> *What is the time commitment expected from mentors?*
+
+Mentors are expected to dedicate approximately 10 hours per month to the program. This includes meeting with scholars and staff, task assignment, providing feedback, and tracking project progress.
+
+> *Can I mentor more than one group of scholars?*
+
+In most cases, mentors will be assigned to one group of scholars to ensure effective mentorship. However, exceptions may be made based on the mentors' availability and expertise. 
+
+> *How will I communicate with scholars?*
+
+Communication with scholars can be done through Discord, email, or other preferred communication channels. Mentors are encouraged to be accessible and responsive to scholars' questions and needs.
+
+> *What support will I receive as a mentor?*
+
+Mentors will receive support from staff, including resources for task tracking, guidance on mentoring best practices, and assistance in resolving any issues that may arise during the program.
+
+> *What happens if I have to miss a scheduled meeting with scholars?*
+
+If mentors need to reschedule a meeting due to holidays or other commitments, they should communicate with scholars to find a suitable alternative time. Flexibility is key in ensuring effective mentorship.
+
+> *Will I receive compensation for my role as a mentor?*
+Yes, mentors will be paid $30 per hour and are required to work 10 hours a month.

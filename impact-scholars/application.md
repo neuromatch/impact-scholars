@@ -1,14 +1,11 @@
-# Become a Climatematch Impact Scholar!
+# Become a Neuromatch Impact Scholar!
 
-```{important}
-   Applications for the 2023 program have closed!
-```
 ## **Eligibility**
 In order to apply, you must:
-- **have completed the most recent [Climatematch Academy course](https://comptools.climatematch.io/tutorials/intro.html) as a student or a Teaching Assistant.** 
-  - Course completion is validated through certification. 
+- **have completed the most recent [Neuromatch Academy courses](https://neuromatch.io/courses/) as a student or a Teaching Assistant.** 
+  - Course completion is validated through certification, which signifies successful completion of both tutorials and projects. 
   - Teaching Assistants are joining teams as equal collaborators.
-
+<br>
 - **be part of a team**. 
   - Individual applications will not be considered, but see [FAQs](#frequently-asked-questions).
   - There is no maximum size limit for the teams, but every applicant must be part of no more than a single team. 
@@ -17,7 +14,7 @@ In order to apply, you must:
 ---
 ## **Application process**
 ### 1. Expression of interest 
-**July 27-28, 2023** 
+**July 26 - August 9, 2024** 
 
 Upon submission of your project slides at the end of Project Session 9, we ask that you indicate the number of people from your team who are planning to apply for extended computing resources to continue the project. We also ask whether either or both of your Teaching Assistants are interested in joining you, so please discuss this with them before submitting the form!
 
@@ -25,17 +22,23 @@ You will have access to computing resources until the application deadline so th
 
 
 ###  2. Application deadline
-~~**August 31, 2023**~~ Deadline extended to **September 8, 2023**
+**September 16, 2024**
 
-To apply for extended resources, **submit a concise two-page project proposal** by the deadline. You can find the application form here: https://airtable.com/appLHqbcnAQ1EUO47/shrN2tosRAzeZ4Yg0
+To apply for extended resources, **submit a concise two-page project proposal** by the deadline, 16th September 2024. You can find the application form here: https://airtable.com/appLHqbcnAQ1EUO47/shrN2tosRAzeZ4Yg0
 
 It includes detailed information about the format and content your proposal should have.
 
 The strongest proposals will:
 
-* directly build on, and be supported by, analyses conducted during the course and the following month; 
-* have a clear research focus;
-* connect the climate phenomenon of interest to its socio-economic impact.
+1. **Build on existing work:**
+   - directly build on, and be supported by, analyses conducted during the course and the following month; 
+2. **Have a Clear Research Focus:**
+   - Clearly define the research question or hypothesis.
+   - Specify the objectives and expected outcomes of the project.
+3. **Demonstrate Broader Relevance and Impact:**
+   - Explain the significance of the research within its field.
+   - Highlight the potential broader impacts of the project, such as advancements in knowledge, practical applications, or contributions to societal challenges.
+
 
 ###  3. Application decisions
 Applications will be reviewed on a rolling basis. We will aim to get back to you within 2-3 weeks of proposal submission.
