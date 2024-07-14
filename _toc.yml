@@ -13,8 +13,20 @@ parts:
     title: Program benefit and learning outcome
   - file: impact-scholars/Scholars-role_responsibilities
     title: Scholars role and responsibilities
+  - file: impact-scholars/mentors
+    title: Mentors
+    sections:
+    - file: impact-scholars/mentoring_guidelines
+- caption: Research Outputs
+  chapters:
+  - file: output-guidelines/micropublications
+  - file: output-guidelines/seminar_presentations
+    sections:
+    - file: output-guidelines/seminar_guidelines
+- caption: Climatematch Impact Scholars Program 2023
+  chapters:
   - file: impact-scholars/scholars2023
-    title: Projects 2023
+    title: Climatematch Projects 2023
     sections:
     - file: scholar-outputs/2023/project2
     - file: scholar-outputs/2023/project3
@@ -26,14 +38,4 @@ parts:
     - file: scholar-outputs/2023/project11
     - file: scholar-outputs/2023/project12
     - file: scholar-outputs/2023/project13
-    - file: scholar-outputs/2023/project14
-  - file: impact-scholars/mentors
-    title: Mentors
-    sections:
-    - file: impact-scholars/mentoring_guidelines
-- caption: Research Outputs
-  chapters:
-  - file: output-guidelines/micropublications
-  - file: output-guidelines/seminar_presentations
-    sections:
-    - file: output-guidelines/seminar_guidelines
+    - file: scholar-outputs/2023/project14  

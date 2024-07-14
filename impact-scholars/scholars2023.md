@@ -1,4 +1,4 @@
-# Impact Scholar projects 2023
+# Climatematch Impact Scholars Projects 2023
 
 We are thrilled to introduce **11 teams** of **56 Impact Scholars** representing **25 countries** as part of our 2023 cohort! 
 

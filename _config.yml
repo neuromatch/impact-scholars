@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Neuromatch Impact Scholars Program
+title: Impact Scholars Program
 author: Neuromatch
-logo: impact-scholars/images/NMA_logo.png
+logo: impact-scholars/images/Sciencematch.png
 only_build_toc_files: true
 
 sphinx:
@@ -12,7 +12,7 @@ sphinx:
     myst_heading_anchors: 2
     html_theme_options:  
       logo:
-        text: Climatematch Impact Scholars Program 
+        text: Impact Scholars Program 
     html_sidebars:
       '**': [navbar-logo.html, search-field.html, sbt-sidebar-nav.html]
 
@@ -29,7 +29,7 @@ latex:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/ClimateMatchAcademy/impact-scholars  # Online location of your book
+  url: https://github.com/neuromatch/impact-scholars  # Online location of your book
   branch: master  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
