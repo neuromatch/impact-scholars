@@ -17,11 +17,6 @@ parts:
     title: Mentors
     sections:
     - file: impact-scholars/mentoring_guidelines
-- caption: Research Outputs
-  chapters:
-  - file: output-guidelines/micropublications
-  - file: output-guidelines/seminar_guidelines
-    title: Seminar Presentation Guidelines
 - caption: Climatematch Impact Scholars Program 2023
   chapters:
   - file: impact-scholars/scholars2023
