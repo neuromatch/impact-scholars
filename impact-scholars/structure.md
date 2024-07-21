@@ -60,11 +60,11 @@ We are actively working to provide participants with further professional and ac
     <td>Seminar presentations</td>
 </tr>
 <tr>
-    <td><b>14 April 2025</b></td>
+    <td><b>28 April 2025</b></td>
     <td>Revised micropublication submission deadline</td>
 </tr>    
 <tr>
-    <td><b>April - May 2025</b></td>
+    <td><b>May 2025</b></td>
     <td>Micropublication release</td>
 </tr>
 </table>

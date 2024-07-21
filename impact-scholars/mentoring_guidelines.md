@@ -35,7 +35,7 @@ Planning these interactions will keep the mentoring partnership on track and foc
 In addition, we encourage mentors and mentees to regularly <u>assess the effectiveness of their collaboration</u> and to respectfully work to improve it. If either of the involved parties do not feel content with the partnership and is struggling to resolve the problems internally, please do not hesitate to reach out to the program organizers via email impactscholars@neuromatch.io. 
 
 ### End of program support (March)
-Mentor-mentee interactions should be organized with the program end date in mind such that the mentorship focus gradually shifts from data analyses and interpretation to result presentation.
+Mentor-mentee interactions should be organized with the program end date in mind, such that the mentorship focus gradually shifts from data analyses and interpretation to result presentation. Scholars will have three weeks to create a presentation of their work and, if they choose, review micropublications of other scholars' groups. For groups that decide to engage in micropub review, mentors need to help scholars balance their time effectively,  including guidance on time management and prioritization skills.  
 
 It is also important to understand that the end of the program and formal mentorship need not mean the end of the professional relationship between the mentor and the scholars. Your final interactions during the program are an excellent opportunity to share your overall experience with the program, celebrate achievements, and, if there is mutual interest, discuss ways for the partnership to continue beyond the program. For example, if the mentor and the scholars are keen to continue their collaboration and develop the project into a journal publication or a conference presentation, we will try our best to facilitate the process and extend scholar access to computing resources.   
 
@@ -44,7 +44,7 @@ After scholars submit the final draft of their [micropublication](../output-guid
 
 Considering that mentors will have guided the scholars through their analyses and result interpretation, it is expected that this feedback will focus primarily on the scholars' clarity of expression and result presentation without requesting additional analyses. Detailed review guidelines will be provided in due course!
 
-Scholars will then have time until **mid-April** to address the received feedback and submit a revised version for publication on the program website.
+Scholars will then have time until the **end of April** to address the received feedback and submit a revised version for publication on the program website.
 
 ---
 ## Ethics of mentoring
