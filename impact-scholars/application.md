@@ -26,11 +26,11 @@ You will have access to computing resources until the application deadline so th
 
 To apply for extended resources, **submit a concise two-page project proposal** by the deadline, 16th September 2024. 
 
-Application form for Climatematch Academy: https://airtable.com/appLHqbcnAQ1EUO47/shrN2tosRAzeZ4Yg0
-
-Application form for Neuromatch Academy: https://airtable.com/appbxcAKe1D5c5xwY/shr2fEZMlHYAgXA16
-
 The application form includes detailed information about the format and content your proposal should have.
+
+NOTE: The application form is currently closed and will open in August. It will be shared on the Discord #isp-community channel once it becomes available.
+
+
 
 The strongest proposals will:
 
