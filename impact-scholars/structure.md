@@ -4,7 +4,7 @@ The Impact Scholars program runs between **October 2024** and **March 2025**. Th
 
 ## **What is involved**
 
-- 💻**Computing resources**. Selected groups will be provided with computing resources until the end of the program with a possibility of further extension if the scholars and their mentor are interested in working towards a peer-reviewed publication. 
+- 💻**Computing resources**. Selected groups will be provided with computing resources until the end of the program with a possibility of further extension if the scholars and their mentor are interested in working towards a peer-reviewed publication. Climatematch scholars will have access to the Climatematch JupyterHub, while Neuromatch scholars will receive Colab Pro access. 
 
 - 📝 **Citable micropublication**. At the end of the program, the scholars will write up their results in a [micropublication](../output-guidelines/micropublications.md) that will be publicized on the program website and assigned a DOI. The scholars will also be offered a chance to share their work in their native language to increase its impact in their community.
 
