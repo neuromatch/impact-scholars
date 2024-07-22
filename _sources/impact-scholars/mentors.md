@@ -19,7 +19,7 @@ Be available for the duration of the program, which lasts from October 2024 to M
 
 - Meet with scholars twice a month for approximately one hour each session.
 - Provide guidance, review progress, and help troubleshoot any issues.
-- Flexibility to cancel and reschedule meetings if holidays or other commitments prevent many scholars from attending.
+- Be flexible to cancelling and rescheduling if holidays or other commitments prevent many scholars from attending.
 - Foster a collaborative and inclusive environment where all students feel empowered to contribute and express their ideas.
 - Encourage teamwork and open communication for the success of the project.
 
