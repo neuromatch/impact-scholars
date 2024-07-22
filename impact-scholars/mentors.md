@@ -1,6 +1,6 @@
 # Mentors
 
-Mentors are **experienced scientists who are interested in supporting a group throughout the development of their research project** between October 2024 and March 2025 nd will be compensated for their time and effort.
+Mentors are **experienced scientists who are interested in supporting a group throughout the development of their research project** between October 2024 and March 2025 and will be compensated for their time and effort.
 
 ## Why be a mentor? 
 
@@ -47,7 +47,7 @@ Attend a welcome meeting in mid-October 2024 and an end-of-program celebration m
 ---
 ## Eligibility criteria
 
-1. **Educational and Professional Background:** Hold a PhD in a relevant field such as Neuroscience, Deep Learning, NeuroAI, or cliamte science, or possess equivalent experience gained through industry or other professional settings that demonstrate expertise in these areas.
+1. **Educational and Professional Background:** Hold a PhD in a relevant field such as Neuroscience, Deep Learning, NeuroAI, or climate science, or possess equivalent experience gained through industry or other professional settings that demonstrate expertise in these areas.
 2. **Project Fit:** Proficient in Python with experience conducting research related to the datasets or scientific questions of the scholars' group. A project gallery will be shared here soon.
 3. **Mentoring / Teaching Experience:** Experience in mentoring or supervising junior researchers.
 4. **Communication Skills:** Strong communication and interpersonal skills to effectively mentor and collaborate with scholars.
@@ -55,6 +55,9 @@ Attend a welcome meeting in mid-October 2024 and an end-of-program celebration m
 
 If you have any questions regarding the mentor role please feel free to contact  impactscholars@neuromatch.io.
 
+```{note}
+Mentor applications will open at the end of July and will be shared on this website.
+```
 
 ---
 ## **Frequently asked questions**
