@@ -16,6 +16,7 @@ parts:
     sections:
     - file: impact-scholars/mentoring_guidelines
 - caption: Research Outputs
+  chapters:
   - file: output-guidelines/micropublications
     title: Micropublications
   - file: output-guidelines/seminar_guidelines
