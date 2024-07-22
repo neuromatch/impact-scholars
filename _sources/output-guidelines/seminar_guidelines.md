@@ -1,7 +1,7 @@
 # Presentation guidelines
 
 ## Session format
-Each [seminar session](..impact-scholars/seminar_presentations.md) will feature 3-4 teams of Impact Scholars. 
+Each [seminar session](.impact-scholars/seminar_presentations.md) will feature 3-4 teams of Impact Scholars. 
 
 Every team will deliver a **10-minute talk** followed by a moderated Q&A. 
 
