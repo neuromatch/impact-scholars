@@ -19,7 +19,7 @@ Mentorship can take place through synchronous meetings on a video conferencing p
 We suggest that the first mentor-mentee interactions:
 - <u>discuss background, experiences, and interests of everyone involved</u>. This will give the mentees an opportunity to practice their networking skills and allow the mentor to tailor their mentoring approach to the mentees' needs.
 
-- <u>set clear expecations</u>. What do you wish to gain from the mentoring relationship? How often will you communicate? What communication channels will you use? When suggesting communication platforms, be mindful of potential accessibility restrictions elsewhere in the world.
+- <u>set clear expectations</u>. What do you wish to gain from the mentoring relationship? How often will you communicate? What communication channels will you use? When suggesting communication platforms, be mindful of potential accessibility restrictions elsewhere in the world.
 
 - <u>discuss the project proposal</u>. The proposal outlining the mentees' current results and the work proposed during the program is attached to the introductory email sent by the organizers. Bear in mind that scholars are working on their project part-time and are required to submit a [micropublication](../output-guidelines/micropublications.md) by **3rd March 2025**. 
 
@@ -146,4 +146,4 @@ This document incorporates and adapts content from [Open Science Lab Mentoring G
 [mmu]: https://www.mmu.ac.uk/careers/students/mentor-me
 [coc]: https://github.com/NeuromatchAcademy/precourse/blob/main/CODE_OF_CONDUCT.md
 [awb]: https://www.actuaries.org/AWB/Projects/Global_Mentorship/Guidelines%20for%20Mentors%20and%20Mentees.pdf
-[osl]: https://opensciencelabs.org/guidelines/mentoring/guide/
+[osl]: https://opensciencelabs.org/guidelines/mentoring/

@@ -21,10 +21,10 @@ parts:
     title: Micropublications
   - file: output-guidelines/seminar_guidelines
     title: Seminar Presentations
-- caption: Climatematch Impact Scholars Program 2023
+- caption: Past Programs
   chapters:
   - file: impact-scholars/scholars2023
-    title: Climatematch Projects 2023
+    title: Climatematch Impact Scholars Program 2023
     sections:
     - file: scholar-outputs/2023/project2
     - file: scholar-outputs/2023/project3
@@ -37,5 +37,5 @@ parts:
     - file: scholar-outputs/2023/project12
     - file: scholar-outputs/2023/project13
     - file: scholar-outputs/2023/project14
-  - file: impact-scholars/seminar_presentations  
-    title: Climatematch Seminar Presentations 2023
+  #- file: impact-scholars/seminar_presentations  
+  #  title: Climatematch Seminar Presentations 2023

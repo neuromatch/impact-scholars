@@ -1,10 +1,12 @@
-# Observing ECCO Model vs Tidal Gauges around Hurricane Maria
+# Observing ECCO model vs tide gauges affected by Hurricane Maria
 
 Team "Rajasaurus Baris"
 
 **Franck Porteous**, **Hannah Krohn**, **Faith Hunja**
 
 Mentor: **Fabrizio Falasca**
+
+Reviewer: **Adolfo Lugo**
 
 In the tempest of climate's exchange,<br>
 Hurricane surges pose challenges, strange.<br>
@@ -67,4 +69,11 @@ And hurricane's squall,<br>
 Prediction's key for the future's insight.<br>
 
 ---
-The full micropublication will be shared here at the end of March 2024.
+For the full micropublication:
+https://doi.org/10.5281/zenodo.12611241
+___
+For the presentation on **Observing ECCO model vs tide gauges affected by Hurricane Maria:**
+
+[![Presentation image](https://img.youtube.com/vi/_mT-hI692f8/0.jpg)](https://www.youtube.com/watch?v=_mT-hI692f8)
+
+
