@@ -56,8 +56,11 @@ Attend a welcome meeting in mid-October 2024 and an end-of-program celebration m
 If you have any questions regarding the mentor role please feel free to contact impactscholars@neuromatch.io.
 
 Computational Tools for Climate Science mentors applications: https://airtable.com/appLHqbcnAQ1EUO47/shrDDmUFZ594k6KQ0
+
 Computational Neuroscience mentors applications: https://airtable.com/app1MtChyjyKEDzAt/shrDwKDuH5xJ1AjnM
+
 Deep Learning mentors applications: https://airtable.com/appoh6RKyBvxgiJ89/shr5ygTIHJIle4QwW
+
 NeuroAI mentors applications: https://airtable.com/app1MtChyjyKEDzAt/shr9csPD7ujcPuajI
 
 ```{note}
