@@ -48,15 +48,22 @@ Attend a welcome meeting in mid-October 2024 and an end-of-program celebration m
 ## Eligibility criteria
 
 1. **Educational and Professional Background:** Hold a PhD in a relevant field such as Neuroscience, Deep Learning, NeuroAI, or climate science, or possess equivalent experience gained through industry or other professional settings that demonstrate expertise in these areas.
-2. **Project Fit:** Proficient in Python with experience conducting research related to the datasets or scientific questions of the scholars' group. A project gallery will be shared here soon.
+2. **Project Fit:** Proficient in programming, preferably Python, with experience conducting research related to the datasets or scientific questions of the scholars' group. A project gallery will be shared here soon.
 3. **Mentoring / Teaching Experience:** Experience in mentoring or supervising junior researchers.
 4. **Communication Skills:** Strong communication and interpersonal skills to effectively mentor and collaborate with scholars.
 5. **Commitment:** Availability for the program duration (October 2024 to March 2025) and commitment to regular meetings and communication with scholars and staff.
 
-If you have any questions regarding the mentor role please feel free to contact  impactscholars@neuromatch.io.
+If you have any questions regarding the mentor role please feel free to contact impactscholars@neuromatch.io.
+
+Computational Tools for Climate Science mentors applications: https://airtable.com/appLHqbcnAQ1EUO47/shrDDmUFZ594k6KQ0
+Computational Neuroscience mentors applications: https://airtable.com/app1MtChyjyKEDzAt/shrDwKDuH5xJ1AjnM
+Deep Learning mentors applications: https://airtable.com/appoh6RKyBvxgiJ89/shr5ygTIHJIle4QwW
+NeuroAI mentors applications: https://airtable.com/app1MtChyjyKEDzAt/shr9csPD7ujcPuajI
 
 ```{note}
-Mentor applications will open at the end of July and will be shared on this website.
+Mentor applications will close on the 16th of September. This is the same date when students submit their project proposals to be considered for the program.We will reach out to all mentors by the end of September.
+
+Accepted mentors will receive a copy of the final proposals submitted by the students who were accepted into the program. This allows mentors to review the projects they will potentially be guiding.
 ```
 
 ---
