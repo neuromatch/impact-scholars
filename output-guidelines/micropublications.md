@@ -1,3 +1,3 @@
 # Micropublications
 
-Information about micropublications will be shared soon! 
+Information about micropublications will be shared soon!
