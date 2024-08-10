@@ -37,8 +37,8 @@ All teams are expected to submit a short summary of their research that can be e
 We request all the teams to track author contributions using the [CRediT taxonomy](https://credit.niso.org). Click on each of the 14 contributor roles to see what they constitute. We discourage giving credits to a scholar (including any former teaching assistant) or mentor if they haven't contributed to the project at all. 
 - Format: .csv, .ods, or .tsv
 - Templates: We are providing 2 templates to track author contributions throughout the program. **Each team is required to submit author contributions in one of these 2 formats.** Download one of the following templates for your team:
-  - [CISP_contributors_table_template](https://docs.google.com/spreadsheets/d/140bNO83-GkOP1SYXWLpZmY27a5wxtj97gOR-5CaMXDQ/edit?usp=sharing): This template was adopted from [tenzing.club](https://contributorshipcollaboration.github.io/projects/tenzingclub). 
-  - [CISP_contributors_table_template_granular](https://docs.google.com/spreadsheets/d/1fw34ZjKaZQ9iv6ld6YT1kZP2uyg0CbmJIZdM88tb07E/edit?usp=sharing): This is a replica of the previous template with more granularity added for each role. There are 2 types of contributions to choose from:
+  - [ISP_contributors_table_template](https://docs.google.com/spreadsheets/d/1i5a4hyl8B5mJyT3x4wBwyCzhTCJkaNzo52WuuMyuris/edit?usp=sharing): This template was adopted from [tenzing.club](https://contributorshipcollaboration.github.io/projects/tenzingclub). 
+  - [ISP_contributors_table_template_granular](https://docs.google.com/spreadsheets/d/1Q0a38uV70pMOks8b1hNtzyRsfCM1mKq4OAInSEY7ncw/edit?usp=sharing): This is a replica of the previous template with more granularity added for each role. There are 2 types of contributions to choose from:
     - Lead: If a scholar has made major contributions in a role, choose this option. Multiple people can have this role.
     - Support: If a scholar has primarily provided support and feedback or helped with brainstorming but hasn't made major contributions to the role, choose this option.
   - Feel free to leave blanks for Roles that aren't relevant for your team.
@@ -47,3 +47,7 @@ We request all the teams to track author contributions using the [CRediT taxonom
 ### Main Text
 Based on the type of research, please elaborate on the single claim, observation, or method. Think of this section as the combination of the Methods, Results, and Discussion sections of a journal-style research article. 
   - Word limit: 1500 words
+  - Supplementary Methods: To make the results reproducible, authors may add supplementary methods if the 1500 word limit isn't sufficient to report the steps to reproduce the results.
+  - References:
+    - Use [Zotero](https://www.zotero.org/) as a reference manager to organize and format citations. References are not included in the word count.
+  - Acknowledgment: Add an acknowledgment section to recognize contributions from individuals who do not qualify as co-authors (e.g., mentors and scholars who contributed but did not complete the project) bu offered specific contributions such as technical assistance or critical feedback.
