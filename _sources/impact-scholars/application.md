@@ -29,7 +29,7 @@ To apply for extended resources, **submit a concise two-page project proposal** 
 The application form includes detailed information about the format and content your proposal should have.
 
 ```{important}
-The application form is currently closed and will open in August. It will be shared on the Discord #isp-community channel once it becomes available.
+The application form is now open and has been shared in the #isp-announcements channel on Discord.
 ```
 
 
