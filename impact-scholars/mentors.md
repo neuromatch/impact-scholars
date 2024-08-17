@@ -9,7 +9,7 @@ Mentors will also become official collaborators on the project which will conclu
 ---
 ## Mentor Compensation and Responsibilities 
 
-Mentors will be paid $30 per hour and are required to work 10 hours a month. Their tasks are detailed as follows:
+Mentors will be paid $30 per hour and are required to work **10 hours a month per group**. Their tasks are detailed as follows:
 
 ***Availability***
 
@@ -43,6 +43,18 @@ Be available for the duration of the program, which lasts from October 2024 to M
 ***Welcome and End of Program Meetings***
 
 Attend a welcome meeting in mid-October 2024 and an end-of-program celebration meeting in March 2025 via Zoom with all scholars and mentors.
+
+```{important}
+All accepted mentors will be required to attend a mandatory training session, which will be conducted over two days. Each session will last for 2 hours per day. To accommodate different time zones, we are offering two options:
+
+- **Group 1:**  
+  - **Part 1:** 8th October, 6:00 - 7:00 AM UTC 
+  - **Part 2:** 10th October, 6:00 - 7:00 AM UTC 
+
+- **Group 2:**  
+  - **Part 1:** 8th October, 6:00 - 7:00 PM UTC  
+  - **Part 2:** 10th October, 6:00 - 7:00 PM UTC 
+```
 
 ---
 ## Eligibility criteria
