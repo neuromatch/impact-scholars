@@ -48,12 +48,12 @@ Attend a welcome meeting in mid-October 2024 and an end-of-program celebration m
 All accepted mentors will be required to attend a mandatory training session, which will be conducted over two days. Each session will last for 2 hours per day. To accommodate different time zones, we are offering two options:
 
 - **Group 1:**  
-  - **Part 1:** 8th October, 6:00 - 7:00 AM UTC 
-  - **Part 2:** 10th October, 6:00 - 7:00 AM UTC 
+  - **Part 1:** 8th October, 6:00 - 8:00 AM UTC 
+  - **Part 2:** 10th October, 6:00 - 8:00 AM UTC 
 
 - **Group 2:**  
-  - **Part 1:** 8th October, 6:00 - 7:00 PM UTC  
-  - **Part 2:** 10th October, 6:00 - 7:00 PM UTC 
+  - **Part 1:** 8th October, 6:00 - 8:00 PM UTC  
+  - **Part 2:** 10th October, 6:00 - 8:00 PM UTC 
 ```
 
 ---
