@@ -52,6 +52,28 @@ We are actively working to provide participants with further professional and ac
     <td>Regular check-ins on Discord and mentor meetings</td>
 </tr>
 <tr>
+    <td><b>28 October 2024</b></td>
+    <td>Workshop on Git&GitHub<br><br>
+        <div style="background-color: #f0f0f0; padding: 8px; border-radius: 5px;">
+            28th October 2024, 7:00-8:30 AM UTC<br>
+            28th October 2024, 7:00-8:30 PM UTC
+        </div> 
+        <br>
+        <i style="font-size: smaller; color: #555;">The same event will be offered at two different times to accommodate various timezones.</i>
+    </td>
+</tr>
+<tr>
+    <td><b>11 - 12 November 2024</b></td>
+    <td>Workshop on Clean and Reproducible Code<br><br>
+        <div style="background-color: #f0f0f0; padding: 8px; border-radius: 5px;">
+            Part 1: 11th November 2024, 2:00-4:00 PM UTC<br>
+            Part 2: 12th November 2024, 2:00-4:00 PM UTC
+        </div> 
+        <br>
+        <i style="font-size: smaller; color: #555;">The workshop is divided into two parts, each focusing on a different topic.</i>
+    </td>
+</tr>
+<tr>
     <td><b>18 - 19 January 2025</b></td>
     <td>Workshop on micropublications</td>
 </tr>

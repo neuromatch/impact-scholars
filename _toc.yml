@@ -19,6 +19,8 @@ parts:
   chapters:
   - file: output-guidelines/micropublications
     title: Micropublications
+  - file: output-guidelines/summary_general_public
+    title: Summary for the General Public
   - file: output-guidelines/seminar_guidelines
     title: Seminar Presentations
 - caption: Past Programs
