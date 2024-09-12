@@ -23,6 +23,15 @@ parts:
     title: Summary for the General Public
   - file: output-guidelines/seminar_guidelines
     title: Seminar Presentations
+
+- caption: Research Training
+  chapters:
+  - file: research-training/workshops
+    title: Workshops
+    sections:
+    - file: research-training/Coding_workshop
+    - file: research-training/oralPresentation_workshop
+
 - caption: Past Programs
   chapters:
   - file: impact-scholars/scholars2023
