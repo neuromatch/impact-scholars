@@ -10,7 +10,7 @@ In this workshop, we will learn how to use Git commands for creating and managin
 **Hlib Solodzhuk**<br>
 *Machine Learning Engineer*
 
-```{figure} ../research-training/images/sHlib-headshot.jpeg
+```{figure} ../research-training/images/Hlib-headshot.jpeg
 ---
 width: 20%
 ---
