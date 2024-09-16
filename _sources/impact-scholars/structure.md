@@ -53,7 +53,7 @@ We are actively working to provide participants with further professional and ac
 </tr>
 <tr>
     <td><b>28 October 2024</b></td>
-    <td>Workshop on Git&GitHub<br><br>
+    <td>Workshop on Git & GitHub<br><br>
         <div style="background-color: #f0f0f0; padding: 8px; border-radius: 5px;">
             28th October 2024, 7:00-8:30 AM UTC<br>
             28th October 2024, 7:00-8:30 PM UTC
@@ -79,7 +79,7 @@ We are actively working to provide participants with further professional and ac
 </tr>
 <tr>
     <td><b>18 February 2025</b></td>
-    <td>Workshop on oral presentation and scientific posters<br><br>
+    <td>Workshop on Mastering Scientific Presentations<br><br>
         <div style="background-color: #f0f0f0; padding: 8px; border-radius: 5px;">
             18th February 2025, 1:00-2:00 AM UTC<br>
             18th February 2025, 1:00-2:00 PM UTC
