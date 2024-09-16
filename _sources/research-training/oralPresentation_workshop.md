@@ -6,9 +6,13 @@ In this workshop, scholars will learn scientifically-grounded principles for des
 
 ## Speaker Bio
 
-**Dr. Mike Morrison**
+**Dr. Mike Morrison**<br>
 *Lead User Experience Designer at Curvenote*
 
-<img src="images/Mike-headshot.jpg" alt="Speaker Headshot" style="float: left; margin-right: 10px; width: 150px;"/>
+```{figure} ../research-training/images/Mike-headshot.jpg
+---
+width: 20%
+---
+```
 
 Dr. Mike Morrison is a designer and psychologist who is trying to speed up scientific discovery by creating new, more efficient designs for tools that scientists use every day. He's most known for creating the viral '#BetterPoster' movement and YouTube cartoons that affect how hundreds of thousands of studies are communicated. Mike has been invited to give workshops on design and communication at many wonderful organizations including Harvard, Stanford, the US Centers for Disease Control, Microsoft Research, and Johns Hopkins. He is currently the Lead User Experience Designer at Curvenote, where he works to redesign scientific publishing.
