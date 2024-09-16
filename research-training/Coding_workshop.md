@@ -6,9 +6,13 @@ Writing intelligeable and reproducible code is critical for ensuring accuracy, c
 
 ## Speaker Bio
 
-**Dr. Peer Herholz**
+**Dr. Peer Herholz**<br>
 *Research Assistant Professor at Northwestern University*
 
-<img src="images/Peer-headshot.jpg" alt="Speaker Headshot" style="float: left; margin-right: 10px; width: 150px;"/>
+```{figure} ../research-training/images/Peer-headshot.jpg
+---
+width: 20%
+---
+```
 
 Peer Herholz is a Research Assistant Professor at Northwestern University, working at the intersection of NeuroAI, data science and open & reproducible science. Besides his research in generalization, representations for adaptive behavior and auditory processing, he is working on a multitude of open-access research software and is part of many initiatives concerned with open and reproducible science.
