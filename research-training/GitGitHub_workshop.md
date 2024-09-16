@@ -1,16 +1,15 @@
-# Summary for the general public
+# Git & GitHub Workshop
 
-All teams are expected to submit a short summary of their research that can be easily grasped by a non-scientific audience. 
-  - This summary will be shared on our website and social media to make your research more accessible and to help your research have greater *impact*. 
-  - You are welcome to submit a text summary (~150 words) or choose a more creative format (such as videos, comics, poems, songs) to communicate your research findings. The public summary should be easy to understand irrespective of which format you choose.
-  - Format : please avoid using proprietary data formats for your creative submissions.
-  - For inspiration, checkout some of the following resources:
-    - [Cartoonists tackling climate change through webcomics](https://www.dw.com/en/cartoonists-tackling-climate-change-through-webcomics/a-63499432)
-    - [Rajan lab comics](https://www.rajanlab.com/comics)
-    - [Dance your PhD](https://www.youtube.com/results?search_query=dance+your+phd)
+## Overview
+Open Sсience is a practice of making research products and processes available to all, which fosters collaborations, reproducibility, and equity. GitHub is an established and convenient platform for sharing your data, code (as a method), and results with the community. It is also crafted to facilitate efficient interaction with your lab mates for joint contributions. It uses Git under the hood - a version control system which simplifies
+In this workshop, we will learn how to use Git commands for creating and managing so-called repositories (where you store the materials); we will play around with branching and merging to empower you with collaborative techniques. We will then make the connection between local changes and a remote repository, located in GitHub, for others to see what you are working on and contribute on top of your findings. We will finish by exploring open-source repositories and how you can contribute to the computational tools today!
 
-## Submission Form
-The submission form will be provided at a later date.
 
-### Deadline
-3 March, 2025
+## Speaker Bio
+
+**Hlib Solodzhuk**
+*Machine Learning Engineer*
+
+<img src="images/Hlib-headshot.jpeg" alt="Speaker Headshot" style="float: left; margin-right: 10px; width: 150px;"/>
+
+Hey! I’m Hlib Solodzhuk, a recently graduated undergrad from Ukrainian Catholic University in IT & Business Analytics. I'm also excited to be part of the team that created the NeuroAI and NASA Open Science courses at Neuromatch Academy - nice to meet you! I believe efficient collaboration is crucial for welcoming the research scientific environment and observing the power of GitHub usage in crafting the courses. I would love to share these tools with you during the workshop.
