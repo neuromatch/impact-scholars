@@ -7,9 +7,12 @@ In this workshop, we will learn how to use Git commands for creating and managin
 
 ## Speaker Bio
 
-**Hlib Solodzhuk**
+**Hlib Solodzhuk**<br>
 *Machine Learning Engineer*
 
-<img src="images/Hlib-headshot.jpeg" alt="Speaker Headshot" style="float: left; margin-right: 10px; width: 150px;"/>
-
+```{figure} ../research-training/images/sHlib-headshot.jpeg
+---
+width: 20%
+---
+```
 Hey! I’m Hlib Solodzhuk, a recently graduated undergrad from Ukrainian Catholic University in IT & Business Analytics. I'm also excited to be part of the team that created the NeuroAI and NASA Open Science courses at Neuromatch Academy - nice to meet you! I believe efficient collaboration is crucial for welcoming the research scientific environment and observing the power of GitHub usage in crafting the courses. I would love to share these tools with you during the workshop.
