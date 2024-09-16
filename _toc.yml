@@ -29,8 +29,10 @@ parts:
   - file: research-training/workshops
     title: Workshops
     sections:
+    - file: research-training/GitGitHub_workshop
     - file: research-training/Coding_workshop
     - file: research-training/oralPresentation_workshop
+    - file: research-training/micropub_workshop
 
 - caption: Past Programs
   chapters:
