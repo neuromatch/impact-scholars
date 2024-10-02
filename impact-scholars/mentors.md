@@ -54,6 +54,9 @@ All accepted mentors will be required to attend a mandatory training session, wh
 - **Group 2:**  
   - **Part 1:** 8th October, 6:00 - 8:00 PM UTC  
   - **Part 2:** 10th October, 6:00 - 8:00 PM UTC 
+
+Before the training, all accepted mentors must watch the following [video](https://youtu.be/ezP7LUdx4eI)
+
 ```
 
 ---
@@ -67,20 +70,8 @@ All accepted mentors will be required to attend a mandatory training session, wh
 
 If you have any questions regarding the mentor role please feel free to contact impactscholars@neuromatch.io.
 
-Below are the **mentor application links for the four courses**. Each link includes a project gallery for the respective course. Please select the project that best aligns with your expertise and current or past work, as we will choose mentors who are the best fit for the projects.
-
-Computational Tools for Climate Science: https://airtable.com/appLHqbcnAQ1EUO47/shrDDmUFZ594k6KQ0
-
-Computational Neuroscience: https://airtable.com/app1MtChyjyKEDzAt/shrDwKDuH5xJ1AjnM
-
-Deep Learning: https://airtable.com/appoh6RKyBvxgiJ89/shr5ygTIHJIle4QwW
-
-NeuroAI: https://airtable.com/app1MtChyjyKEDzAt/shr9csPD7ujcPuajI
-
-```{note}
-Mentor applications will close on the 16th of September. This is the same date when students submit their project proposals to be considered for the program.We will reach out to all mentors by the end of September.
-
-Accepted mentors will receive a copy of the final proposals submitted by the students who were accepted into the program. This allows mentors to review the projects they will potentially be guiding.
+```{important}
+Mentor applications closed on the 16th of September. 
 ```
 
 ---
