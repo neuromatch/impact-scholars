@@ -74,7 +74,7 @@ We are actively working to provide participants with further professional and ac
     </td>
 </tr>
 <tr>
-    <td><b>28 October 2024</b></td>
+    <td><b>13 January 2025</b></td>
     <td>Micropublication Workshop<br><br>
         <div style="background-color: #f0f0f0; padding: 8px; border-radius: 5px;">
             13th January 2025 7:00 AM - 8:30 AM UTC<br>
