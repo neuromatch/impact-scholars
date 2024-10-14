@@ -74,8 +74,15 @@ We are actively working to provide participants with further professional and ac
     </td>
 </tr>
 <tr>
-    <td><b>18 - 19 January 2025</b></td>
-    <td>Workshop on micropublications</td>
+    <td><b>28 October 2024</b></td>
+    <td>Micropublication Workshop<br><br>
+        <div style="background-color: #f0f0f0; padding: 8px; border-radius: 5px;">
+            13th January 2025 7:00 AM - 8:30 AM UTC<br>
+            13th January 2025 7:00 PM - 8:30 PM UTC
+        </div> 
+        <br>
+        <i style="font-size: smaller; color: #555;">The same event will be offered at two different times to accommodate various timezones.</i>
+    </td>
 </tr>
 <tr>
     <td><b>18 February 2025</b></td>

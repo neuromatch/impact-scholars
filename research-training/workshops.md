@@ -16,7 +16,8 @@ To help scholars succeed during the program and strengthen their skills, we are 
 <br>
 
 3. **Micropublication Workshop**
-   - **Date & Time:** TBD
+   - **Date & Time:** 13th January 2025, 7:00-8:30 AM UTC and 7:00-8:30 PM UTC
+   - **Note:** This workshop will be offered at two different times to accommodate scholars in various time zones.
 <br>
 
 4. **Mastering Scientific Presentations**
