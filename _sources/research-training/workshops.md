@@ -5,13 +5,13 @@ To help scholars succeed during the program and strengthen their skills, we are 
 ## **Workshop Schedule**
 
 1. **Git & GitHub**
-   - **Date & Time:** 28th October, 7:00-8:30 AM UTC and 7:00-8:30 PM UTC
+   - **Date & Time:** 28th October, 8:00-9:30 AM UTC and 8:00-9:30 PM UTC
    - **Note:** This workshop will be offered at two different times to accommodate scholars in various time zones.
 <br>
 
 2. **Clean and Reproducible Code**
-   - **Part 1:** 11th November, 2:00-4:00 PM UTC  
-   - **Part 2:** 12th November, 2:00-4:00 PM UTC
+   - **Part 1:** 11th November, 3:00-5:00 PM UTC  
+   - **Part 2:** 12th November, 3:00-5:00 PM UTC
    - **Note:** This workshop is divided into two parts. Please try to attend both sessions for a full experience.
 <br>
 
@@ -21,7 +21,7 @@ To help scholars succeed during the program and strengthen their skills, we are 
 <br>
 
 4. **Mastering Scientific Presentations**
-   - **Date & Time:** 18th February 2025, 1:00-2:00 AM UTC and 1:00-2:00 PM UTC
+   - **Date & Time:** 18th February 2025, 2:00-3:00 AM UTC and 2:00-3:00 PM UTC
     - **Note:** This workshop will be offered at two different times to accommodate scholars in various time zones.
 <br>
 
