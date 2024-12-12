@@ -31,8 +31,10 @@ parts:
     sections:
     - file: research-training/GitGitHub_workshop
     - file: research-training/Coding_workshop
-    - file: research-training/oralPresentation_workshop
     - file: research-training/micropub_workshop
+    - file: research-training/SciComm_workshop
+    - file: research-training/oralPresentation_workshop
+    
 
 - caption: Past Programs
   chapters:
