@@ -1,4 +1,4 @@
-# Mastering Scientific Presentations Workshop
+# SciComm Workshop
 
 ## Overview
 
