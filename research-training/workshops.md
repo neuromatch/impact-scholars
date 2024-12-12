@@ -1,6 +1,6 @@
 # Workshops 
 
-To help scholars succeed during the program and strengthen their skills, we are offering ***four exclusive workshops*** that will significantly enhance their abilities in essential research areas. These workshops are exclusively available to scholars and are not open to the general public. Each workshop will be *video recorded*, so scholars can revisit them later if unable to attend live. However, **we strongly encourage live attendance** for hands-on learning and to benefit from practical examples.
+To help scholars succeed during the program and strengthen their skills, we are offering ***five exclusive workshops*** that will significantly enhance their abilities in essential research areas. These workshops are exclusively available to scholars and are not open to the general public. Each workshop will be *video recorded*, so scholars can revisit them later if unable to attend live. However, **we strongly encourage live attendance** for hands-on learning and to benefit from practical examples.
 
 ## **Workshop Schedule**
 
@@ -20,7 +20,12 @@ To help scholars succeed during the program and strengthen their skills, we are 
    - **Note:** This workshop will be offered at two different times to accommodate scholars in various time zones.
 <br>
 
-4. **Mastering Scientific Presentations**
+4. **SciComm Workshop**
+   - **Date & Time:** 22nd January 2025, 1:00-2:30 PM UTC and 23rd January 2025, 1:00-2:30 AM UTC
+   - **Note:** This workshop will be offered at two different times to accommodate scholars in various time zones.
+<br>
+
+5. **Mastering Scientific Presentations**
    - **Date & Time:** 18th February 2025, 2:00-3:00 AM UTC and 2:00-3:00 PM UTC
     - **Note:** This workshop will be offered at two different times to accommodate scholars in various time zones.
 <br>
