@@ -10,7 +10,7 @@ All teams are expected to submit a short summary of their research that can be e
     - [Dance your PhD](https://www.youtube.com/results?search_query=dance+your+phd)
 
 ## Submission Form
-The submission form will be provided at a later date.
+All teams are required to submit a summary for the general public at the end of the program using [this form](https://airtable.com/appbxcAKe1D5c5xwY/shrKNjsvZAmrrSzUq).
 
 ### Deadline
 3 March, 2025

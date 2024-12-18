@@ -5,13 +5,13 @@ A micropublication is a brief research article that describes a **single result,
 - [Octopus](https://www.octopus.ac/)
 
 ## Submission Form
-All teams are required to submit a micropublication at the end of the program. The submission form will be provided at a later date.
+All teams are required to submit a micropublication at the end of the program using [this form](https://airtable.com/appbxcAKe1D5c5xwY/shrfNgoCoS1e9pLge). 
+
 
 ### Deadline
 3 March, 2025
 
 ## Submission guidelines
-
 Your micropublication submission must include specific components. Here are the guidelines for each:
 
 #### Type of research
@@ -85,5 +85,5 @@ If necessary, use this section to provide additional information relevant to you
 - If applicable, please compile all additional text and supplementary figures (including figure captions) in a single PDF file.
 - You are welcome to submit information in other formats, such as code or video, as long as appropriate descriptions are provided in the supplementary PDF file.
 - If you are submitting more than 1 file overall, please compress your files together and upload a single .zip file
-- While we expect the micropublication submission to be in English, we encourage scholars to use this section to submit the micropublication in other languages. You can submit this translated material even after the micropublication deadline using a form that will be provided at a later date.
+- While we expect the micropublication submission to be in English, we encourage scholars to use this section to submit the micropublication in other languages. You can submit this translated material even after the micropublication deadline using [this form](https://airtable.com/appbxcAKe1D5c5xwY/shrqzMBIvNw6JEf9u).
 
