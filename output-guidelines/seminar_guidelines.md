@@ -17,10 +17,6 @@ The presentation part of each session will be open to the public and recorded. R
 
 We leave it up to the scholars to allocate the speaking responsibilities among themselves. While everyone who wishes to present part of the talk should be given a chance to do so, it is allowed for one scholar to speak on behalf of the team. 
 
-## Registering for the seminars
-
-Information on seminar registration will be shared at a later stage.
-
 
 ## Resources: how to give a short research talk?
 - ["The Art of Selling Science: Presenting an engaging scientific talk" by Caitlin Grzeskowiak, PLOS Early Career Research Community](https://ecrcommunity.plos.org/2017/01/31/the-art-of-selling-science-presenting-an-engaging-scientific-talk/)
