@@ -1,6 +1,6 @@
 # Upcoming Seminar Presentations - 2024 Schedule
 
-Join our Impact Scholars seminars via Zoom. Below you'll find the schedule with dates, times, presenters, and links to join.
+Join our Impact Scholars seminars via Zoom. Below you'll find the schedule with dates, times, and links to join.
 
 
 ---
