@@ -23,6 +23,8 @@ parts:
     title: Summary for the General Public
   - file: output-guidelines/seminar_guidelines
     title: Seminar Presentations
+  - file:  output-guidelines/Upcoming_Seminar_Presentations
+    title: Upcoming Seminar Presentations - 2024 Schedule
 
 - caption: Research Training
   chapters:
