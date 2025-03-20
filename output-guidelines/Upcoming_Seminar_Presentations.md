@@ -9,7 +9,6 @@ Join our Impact Scholars seminars via Zoom. Below you'll find the schedule with 
 
 ### Session 1: 10:00 AM – 11:00 AM UTC  
 **Zoom Registration link:** https://us06web.zoom.us/meeting/register/grPSXCfCQLGUH6GgnegHOA
-**Moderator:** Viviana Greco
 
 - **10:00 AM – 10:05 AM:** ISP Groups Welcome  
 - **10:05 AM – 10:20 AM:** *Eternal Minds* (Computational Neuroscience), Understanding the Default Mode Network’s Computational Role in Decision-Making
@@ -22,7 +21,6 @@ Join our Impact Scholars seminars via Zoom. Below you'll find the schedule with 
 
 ### Session 2: 5:00 PM – 6:00 PM UTC  
 **Zoom Registration link:** https://us06web.zoom.us/meeting/register/NQt4sNoZTYm5kV9yxuiMrA
-**Moderator:** Aparajeeta Guha
 
 - **5:00 PM – 5:05 PM:** ISP Groups Welcome  
 - **5:05 PM – 5:20 PM:** *Turing Sour Snakes* (NeuroAI), Biological Connectivity Patterns as a Blueprint for Efficient Neural Architectures in Reinforcement Learning  
@@ -37,7 +35,6 @@ Join our Impact Scholars seminars via Zoom. Below you'll find the schedule with 
 
 ### Session: 12:30 PM – 1:50 PM UTC  
 **Zoom Registration link:** https://us06web.zoom.us/meeting/register/U52JOhXPQHefTDt4AQlPTg
-**Moderator:** Viviana Greco
 
 - **12:30 PM – 12:35 PM:** ISP Groups Welcome  
 - **12:35 PM – 12:50 PM:** *Blindsight Brigade* (Computational Neuroscience), Midbrain reticular nucleus’s control over pupil dynamics is modulated by visual contrast  
@@ -54,7 +51,6 @@ Join our Impact Scholars seminars via Zoom. Below you'll find the schedule with 
 
 ### Session: 3:00 PM – 4:20 PM UTC  
 **Zoom Registration link:** https://us06web.zoom.us/meeting/register/_faVCDf2SCOGPcZr-hY4_A
-**Moderator:** Courtney Dean
 
 - **3:00 PM – 3:05 PM:** ISP Groups Welcome  
 - **3:05 PM – 3:20 PM:** *G-Stringers* (Computational Neuroscience), V1 neurons encode behavioral state variables and their rate-of-change in mice  
@@ -71,7 +67,6 @@ Join our Impact Scholars seminars via Zoom. Below you'll find the schedule with 
 
 ### Session 1: 12:00 PM – 12:40 PM UTC  
 **Zoom Registration link:** https://us06web.zoom.us/meeting/register/uZ11CYy0RA20QH1Fp5O11w
-**Moderator:** Viviana Greco
 
 - **12:00 PM – 12:05 PM:** ISP Groups Welcome  
 - **12:05 PM – 12:20 PM:** *Montrebia Cabinet* (Computational Neuroscience), Working Memory Involvement in Higher Cognition: Insights from fMRI Modeling
@@ -80,7 +75,6 @@ Join our Impact Scholars seminars via Zoom. Below you'll find the schedule with 
 
 ### Session 2: 3:00 PM – 4:30 PM UTC  
 **Zoom Registration link:** https://us06web.zoom.us/meeting/register/9JhPF3nyQOSJGoMc7c7tdA
-**Moderator:** Aparajeeta Guha
 
 - **3:00 PM – 3:05 PM:** ISP Groups Welcome  
 - **3:05 PM – 3:20 PM:** *Impactful Scholars 🤞🤞* (Computational Neuroscience), "Representation of Semantic Encoding in Low and Intermediate Level Visual
@@ -97,7 +91,6 @@ Regions"
 
 ### Session 1: 9:00 AM – 10:40 AM UTC  
 **Zoom Registration link:** https://us06web.zoom.us/meeting/register/VdHTXHgtSimL3T4gHjZKDQ
-**Moderator:** Viviana Greco
 
 - **9:00 AM – 9:05 AM:** ISP Groups Welcome  
 - **9:05 AM – 9:20 AM:** *Mind Mappers* (Computational Neuroscience), Social Cognition in Autism: Predicting Task-Based Neural Activity from Resting State Connectivity
@@ -112,7 +105,6 @@ Regions"
 
 ### Session 2: 6:00 PM – 7:20 PM UTC  
 **Zoom Registration link:** https://us06web.zoom.us/meeting/register/DpaQCwKyTr-5twL7OUopBA
-**Moderator:** Aparajeeta Guha
 
 - **6:00 PM – 6:05 PM:** ISP Groups Welcome  
 - **6:05 PM – 6:20 PM:** *The BERTies* (Deep Learning), Enhancing human empathy in conversations using transformer-based models
@@ -129,7 +121,6 @@ Regions"
 
 ### Session: 1:00 PM – 2:20 PM UTC  
 **Zoom Registration link:** https://us06web.zoom.us/meeting/register/XQ6LV9KMReKhxBws_64-5A
-**Moderator:** Viviana Greco
 
 - **1:00 PM – 1:05 PM:** ISP Groups Welcome  
 - **1:05 PM – 1:20 PM:** *Motorologists* (NeuroAI), Training Dynamics of Recurrent Neural Networks in RT Task  
