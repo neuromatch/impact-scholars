@@ -73,20 +73,17 @@ Join our Impact Scholars seminars via Zoom. Below you'll find the schedule with 
 - **12:20 PM – 12:25 PM:** Montrebia Cabinet Q&A  
 - **12:25 PM – 12:40 PM:** Additional Q&A
 
-### Session 2: 3:00 PM – 4:30 PM UTC  
+### Session 2: 3:00 PM – 3:45 PM UTC  
 **Zoom Registration link:** https://us06web.zoom.us/meeting/register/9JhPF3nyQOSJGoMc7c7tdA
 
 - **3:00 PM – 3:05 PM:** ISP Groups Welcome  
-- **3:05 PM – 3:20 PM:** *Impactful Scholars 🤞🤞* (Computational Neuroscience), "Representation of Semantic Encoding in Low and Intermediate Level Visual
-Regions"
-- **3:20 PM – 3:25 PM:** Impactful Scholars 🤞🤞 Q&A  
-- **3:25 PM – 3:40 PM:** *SUNKARD* (Computational Neuroscience), Cortical Region-Based Analysis of Motor Imagery and Actual Movement Using EEG and Machine Learning  
-- **3:40 PM – 3:45 PM:** SUNKARD Q&A  
-- **3:45 PM – 4:00 PM:** *Circuit Weavers* (Deep Learning), Investigating the Matching Law in Transformer-Based Reinforcement Learning Agents 
-- **4:00 PM – 4:05 PM:** Circuit Weavers Q&A  
-- **4:05 PM – 4:30 PM:** Additional Q&A
+- **3:05 PM – 3:20 PM:** *SUNKARD* (Computational Neuroscience), Cortical Region-Based Analysis of Motor Imagery and Actual Movement Using EEG and Machine Learning  
+- **3:20 PM – 3:25 PM:** SUNKARD Q&A  
+- **3:25 PM – 3:40 PM:** *Circuit Weavers* (Deep Learning), Investigating the Matching Law in Transformer-Based Reinforcement Learning Agents 
+- **3:40 PM – 3:45 PM:** Circuit Weavers Q&A   
 
 ---
+
 ## Saturday, March 29, 2025
 
 ### Session 1: 9:00 AM – 10:40 AM UTC  
@@ -131,5 +128,17 @@ Regions"
 Language Models"
 - **2:00 PM – 2:05 PM:** NLPeople Q&A  
 - **2:05 PM – 2:20 PM:** Additional Q&A
+
+---
+
+## Wednesday, April 3, 2025
+
+### Session: 9:00 AM – 9:30 AM UTC  
+**Zoom Registration link:** https://us06web.zoom.us/j/3050939248?pwd=ifg564btNnoOx4ovzN4WjGNw3CvjjK.1&omn=87585278880&jst=2
+
+- **9:00 AM – 9:05 AM:** ISP Groups Welcome  
+- **9:05 AM – 9:20 AM:** *Impactful Scholars 🤞🤞* (Computational Neuroscience), "Representation of Semantic Encoding in Low and Intermediate Level Visual
+Regions"
+- **9:20 AM – 9:25 AM:** Impactful Scholars 🤞🤞 Q&A  
 
 ---
